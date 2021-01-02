@@ -1,0 +1,337 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-MWShOYzc0Gk/T_wc9FtzkLI/AAAAAAAAFjo/OR4geTMwLgc/s1600/MediaCorp_Channel5.jpg" group-title="SG",SINGAPORE | TV 5
+https://ftach5.akamaized.net/out/v1/e2b7fbc082a5493bbfbab77f8c27ee9e/index.m3u8
+ 
+#EXTINF:0 tvg-logo="http://enacademic.com/pictures/enwiki/77/MediaCorp_Channel8.jpg" group-title="SG",SINGAPORE | TV 8
+https://ftach8.akamaized.net/out/v1/073dd78a13e94503be38183e2d126d31/index.m3u8
+ 
+#EXTINF:0 tvg-logo="http://enacademic.com/pictures/enwiki/77/MediaCorp_Channel8.jpg" group-title="SG",SINGAPORE | TV 8
+https://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index.m3u8
+ 
+#EXTINF:0 tvg-logo="http://channel8andsuria.weebly.com/uploads/4/1/5/7/41571097/1598436.jpg" group-title="SG",SINGAPORE | SURIA
+https://ftasuria.akamaized.net/out/v1/dc54e93f8c674ab99d41f2f461d97ecf/index.m3u8
+ 
+#EXTINF:0 tvg-logo="http://juris.sg/images/featured-13.jpg" group-title="SG",SINGAPORE | VASANTHAM
+https://ftavasantham.akamaized.net/out/v1/3e62380daa0844c3911a66d5b12f3a0b/index.m3u8
+ 
+#EXTINF:0 tvg-logo="http://juris.sg/images/featured-13.jpg" group-title="SG",SINGAPORE | VASANTHAM
+http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.m3u8
+ 
+#EXTINF:0 tvg-logo="logotv1.png" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/30/MediaCorp_Channel_U_logo.jpg" group-title="SG",SINGAPORE | CHANNEL U
+https://ftachu.akamaized.net/out/v1/71d762324c994b3481cf38f2c24b16bf/index.m3u8
+ 
+#EXTINF:0 tvg-logo="logotv1.png" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/30/MediaCorp_Channel_U_logo.jpg" group-title="SG",SINGAPORE | CHANNEL U
+https://ftachu.akamaized.net/out/v1/4d9907464ff048ce859219b22ed52599/index.m3u8
+ 
+#EXTINF:0 tvg-logo="https://www.specialistdentalgroup.com/wp-content/uploads/2015/07/logo-cna.png" group-title="SG",SINGAPORE | CNA
+http://45.126.83.51/uq2663/h/h29/index.m3u8
+ 
+#EXTINF:0 tvg-logo="https://www.specialistdentalgroup.com/wp-content/uploads/2015/07/logo-cna.png" group-title="SG",SINGAPORE | CNA
+https://drsh196ivjwe8.cloudfront.net/hls/cnai/01.m3u8
+ 
+#EXTINF:0 tvg-logo="logotv1.png" tvg-logo="https://www.mediacorp.sg/image/8917556/1x1/250/250/59a52f748319fe0af399729d6e0d2168/th/okto--p-.jpg" group-title="SG",SINGAPORE | OKTO
+https://ftaokto.akamaized.net/out/v1/dcbd96fdb4f24038a854bcd95ba36593/index.m3u8
+ 
+#EXTINF:0 tvg-logo="logotv1.png" tvg-logo="https://www.mediacorp.sg/image/8917556/1x1/250/250/59a52f748319fe0af399729d6e0d2168/th/okto--p-.jpg" group-title="SG",SINGAPORE | OKTO SPORTS
+https://tglmp02.akamaized.net/out/v1/c8219490201f4c75ac44138daddb2aeb/master.m3u8
+ 
+#EXTINF:-1 tvg-ID="" tvg-name="MY" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png" group-title="MY", MALAYSIA | RTM 1
+https://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-ID="" tvg-name="MY" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png" group-title="ENG", MALAYSIA | RTM 2
+https://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
+ 
+#EXTINF:0,MALAYSIA | TV3
+http://livecdn.long.tv:8123/live/9B018DFCEDA448F380405340C339AD72/playlist.m3u8
+ 
+#EXTINF:0,MALAYSIA | TV3
+http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-2.m3u8
+ 
+#EXTINF:0,MALAYSIA | TV3
+https://sini.la/tv3
+ 
+#EXTINF:0,MALAYSIA | NTV7
+http://stream-02.sg1.dailymotion.com/dm/3/x6qp6ou/live-2.m3u8
+ 
+#EXTINF:0,MALAYSIA | NTV7
+https://sini.la/ntv7
+ 
+#EXTINF:0,MALAYSIA | TV9
+https://sini.la/tv9
+ 
+#EXTINF:-1 tvg-ID="" tvg-name="MY" tvg-logo="https://rtm-image.glueapi.io/300x180/live_stream/Okey%20TV.jpg" group-title="MY", MALAYSIA | OKEY
+https://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-ID="" tvg-name="MY" tvg-logo="http://www.fukuokamasjid.org/wp-content/uploads/2015/03/malaysia-bernamatv.png" group-title="MY", MALAYSIA | BERNAMA TV
+http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/chunklist_w274541811_b1000000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-ID="" tvg-name="MY" tvg-logo="https://nontontv2013.github.io/nontontvnet/public_html/image/astroarena.png?format=raw" group-title="MY", MALAYSIA | ASTRO ARENA
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+ 
+#EXTINF:-1 tvg-ID="" tvg-name="MY" tvg-logo="http://www.fukuokamasjid.org/wp-content/uploads/2015/03/astro-AWANI.png" group-title="MY", MALAYSIA | ASTRO AWANI
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+ 
+#EXTINF:-1 tvg-ID="" tvg-name="MY" tvg-logo="https://rtm-image.glueapi.io/300x180/live_stream/LOGO-THUMBNAIL-1news.jpg" group-title="MY", MALAYSIA | 1NEWS
+https://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
+ 
+#EXTINF:0,MALAYSIA | ASTRO SUPERSPORT 3
+http://103.242.13.90:5555/udp/239.4.1.148:10000
+ 
+#EXTINF:0,INDONESIA | TVRI NASIONAL
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
+ 
+#EXTINF:0,INDONESIA | TVRI SPORTS
+ 
+#EXTINF:0,INDONESIA | SBO
+http://stream.sbo.co.id:1935/sbotv/live/chunklist_w433447537.m3u8
+ 
+#EXTINF:0,INDONESIA | Indo Siar
+http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF:0,INDONESIA | SCTV
+http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF:0,INDONESIA | RCTI
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF:0,INDONESIA | NET
+http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF:0,INDONESIA | ANTV
+http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF:0,INDONESIA | TRANSTV
+http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF:0,INDONESIA | TRANS7
+http://stream-04.sg1.dailymotion.com/dm/3/x6p1gw7/live-2.m3u8
+ 
+#EXTINF:0,INDONESIA | TRANS7
+http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF:0,INDONESIA | MNCTV
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+ 
+#EXTINF:0,Indonesia | CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w586837424_b384000_sleng.m3u8
+ 
+#EXTINF:0,MOVIES | B4U MOVIES
+http://161.0.157.5/PLTV/88888888/224/3221226255/index.m3u8
+ 
+#EXTINF:0,MOVIES | FOX MOVIES
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+ 
+#EXTINF:0,MOVIES | HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+ 
+ 
+#EXTINF:0,MOVIES | Hollywood Switch
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:0,MOVIES | Hollywood Movies 1
+http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
+ 
+#EXTINF:0,MOVIES | Hollywood Movies 2
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", Hollywood Movies 4
+http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", Hollywood Movies 5
+http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", Hollywood Movies 6
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", Hollywood Movies 7
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", Hollywood Movies 8
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", Hollywood Movies 9
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", Hollywood Movies 10
+http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", (ONLINE) Hollywood Movies 11
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:0,MOVIES | Sony Movie Channel
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:0,MOVIES | Showtime HD
+http://80.80.160.168/live/7/live.m3u8
+ 
+#EXTINF:0,MOVIES | Stream 1
+http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
+ 
+#EXTINF:0,MOVIES | Stream 2
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:0,MOVIES | Stream 3
+http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
+ 
+#EXTINF:0,INFO | Fine Living
+http://ott-cdn.ucom.am/s51/04.m3u8
+ 
+#EXTINF:0,INFO |Cars & Stars TV
+http://cars-and-stars-tv-hls1.cosmonova.net.ua/hls/cars-and-stars-tv_ua_hi/index.m3u8
+ 
+#EXTINF:0,INFO | Cooking Channel
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
+ 
+#EXTINF:0,INFO | Discovery HD
+http://80.80.160.168/live/8/live.m3u8
+ 
+#EXTINF:0,INFO | Discovery Science HD
+http://80.80.160.168/live/7/live.m3u8
+ 
+#EXTINF:0,INFO | Discovery Investigation
+http://80.80.160.168/live/5/live.m3u8
+ 
+#EXTINF:0,INFO | Travel Channel
+http://80.80.160.168/live/3/live.m3u8
+ 
+#EXTINF:0,INFO | TLC
+http://80.80.160.168/live/2/live.m3u8
+ 
+#EXTINF:0,INFO | Animal Planet
+http://80.80.160.168/live/1/live.m3u8
+ 
+#EXTINF:0,SPORTS | ESPN
+http://80.80.160.168/live/6/live.m3u8
+ 
+#EXTINF:-1, CN | SUPER SPORTS
+http://117.169.120.214:8080/live/cctv-5/.m3u8
+ 
+#EXTINF:-1, NEWS | ABC  
+http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/index_750_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1, NEWS | AL-JAZEERA
+http://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
+ 
+#EXTINF:-1, NEWS | AL-JAZEERA
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+ 
+#EXTINF:-1, NEWS | AL-JAZEERA HD
+http://199.167.151.237:1935/live/sp15_9.stream/gmswf.m3u8
+ 
+#EXTINF:-1, NEWS | AL-JAZEERA HD
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
+ 
+#EXTINF:-1, NEWS | Arirang TV
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+ 
+#EXTINF:-1, NEWS | Arirang TV
+http://84.245.12.74:8081/channels/play?id=15884
+ 
+#EXTINF:-1, NEWS | BBC WORLD NEWS (India)
+http://z5ams.akamaized.net/bbcworldnews/tracks-v1a1/index.m3u8
+ 
+#EXTINF:-1, NEWS | CBS
+http://tv.bmx-tv.top:1935/live/33.smil/playlist.m3u8
+ 
+#EXTINF:-1, NEWS | CBS TV Korea
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+ 
+#EXTINF:-1, NEWS | CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+ 
+#EXTINF:-1, NEWS | CGTN ENG
+http://live.cgtn.com/cctv-d.m3u8
+ 
+#EXTINF:-1, NEWS | DW-TV
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+ 
+#EXTINF:-1, NEWS | DW-TV
+http://210.210.155.35/qwr9ew/s/s26/01.m3u8
+ 
+#EXTINF:-1, NEWS | MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_2596_av-b.m3u8
+ 
+#EXTINF:-1, NEWS | RT
+http://210.210.155.35/qwr9ew/s/s23/01.m3u8
+ 
+#EXTINF:0, INFO | Fashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
+ 
+#EXTINF:0, INFO | Fashion TV
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+ 
+#EXTINF:0, INFO | World Fashion HD
+http://cdn-01.bonus-tv.ru:8080/wfcint/tracks-v1a1/index.m3u8
+ 
+#EXTINF:0, INFO | AL-JAZEERA DOCUMENTARY
+http://84.245.12.74:8081/channels/play?id=19300
+ 
+#EXTINF:0, MUSIC | BBC Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w437113484_b964000_sleng.m3u8
+ 
+#EXTINF:0, MUSIC | California Music Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:0, MUSIC | Capital TV - UK
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+ 
+#EXTINF:0, MUSIC | Delux Music
+http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
+ 
+#EXTINF:0, MUSIC | Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:0, MUSIC | Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+ 
+#EXTINF:0, MUSIC | Heavy Metal TV
+http://70.166.99.93:1935/hmtv/myStream/playlist.m3u8
+ 
+#EXTINF:0, MUSIC | HITS MUSIC
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+ 
+#EXTINF:0, MUSIC | HIT TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
+ 
+#EXTINF:0, MUSIC | Music Choice
+https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+ 
+#EXTINF:0, MUSIC | Retro
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+ 
+#EXTINF:0, MUSIC | Top Latinos TV
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+ 
+#EXTINF:0, MUSIC | Portal Fox Mix
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:0, MUSIC | PRIMERA HD MUSIC
+http://178.132.6.97:8080/a1vikommusic/tracks-v1a1/index.m3u8
+ 
+#EXTINF:0, MUSIC | MTV Hits
+http://46.191.236.69:8085/udp/225.30.0.156:1234
+ 
+#EXTINF:0, MUSIC | MTV Rocks
+http://46.191.236.69:8085/udp/225.30.0.157:1234
+ 
+#EXTINF:0, MUSIC | MTV Rocks *SD
+http://persik.by/stream/6431/299492/10227.m3u8
+ 
+#EXTINF:0, MUSIC | MTV Dance
+http://46.191.236.69:8085/udp/225.30.0.158:1234
+ 
+#EXTINF:0, MUSIC | MTV Live HD
+http://46.191.236.69:8085/udp/225.30.0.120:1234
+ 
+#EXTINF:0, MUSIC | VH1 European
+http://46.191.236.69:8085/udp/225.30.0.145:1234
+ 
+#EXTINF:0, MUSIC | Zeta TV
+ http://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist.m3u8
+ 
+#EXTINF:0, MUSIC | All The K-POP
+https://stream-02.nyc.dailymotion.com/01/dm/3/x4kzk1v/live-3.m3u8
+ 
+#EXTINF:0, MUSIC | B4U Musix
+http://161.0.157.5/PLTV/88888888/224/3221226332/index.m3u8
