@@ -89,12 +89,6 @@ https://rtm1hdmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b206400
 https://foxsports01-i.akamaihd.net/hls/live/619466/fs2_sg/stream2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/tv3.png" group-title="Astro Malaysia",TV3 Backup
 http://1.9.62.167/PLTV/88888888/224/3221227633/3221227633.mpd
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/1news_RTM.png" group-title="Astro Malaysia", 1 News
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="Astro Malaysia", TVIKIM
-https://www.streamer2mytv.com/cache/Bein-A-KL-V-E-3/master.m3u8
-#EXTINF:0 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="Astro Malaysia", TVc
-https://dl.dropboxusercontent.com/s/l2d50r76elewiar/usee2.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/bernama.png" group-title="Singapore/Malaysia",Channel Bernama Radio
 https://bernama.rastream.com/bernama-bernama.web.hls/playlist.m3u8?listeningSessionID=5f9af496e5bde007_5557933_maIeZg0t_MTAzLjIxLjgxLjU6ODA!_000000dWWsg&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Abernama-bernama&playerid=BERNAMA%20Radio_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2MDk1NDg2MDgsImV4cCI6MTYwOTYzNTAwOH0.iA5AEMfnxq0QOtlo73IYEaFMoRLT7EB8sYsGTx0JPdY
