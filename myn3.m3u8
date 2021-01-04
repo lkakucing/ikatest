@@ -64,7 +64,7 @@ http://185.59.222.189:25461/sEdFDEpoxg/Vw2ufXDXkP/110270?play_token=3VJhJFZEJA&t
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Astro Malaysia",Astro Oasis
 http://185.59.222.189:25461/sEdFDEpoxg/Vw2ufXDXkP/110157?play_token=e2oVETQhNq&token=GRdRWUpbQV9BCwAFB1EGUQdSD1QBBFVQBgJcUVNXDQhbVgFdXAdVXVMRFEQQFxAGVQxnD1YVCVACU1UHB08aRBFQS2dQV0FfQQIMV1JUW1UWTRoSW1pWQwlSUQsAUwAIWwcNFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4=
 #https://dl.dropboxusercontent.com/s/i2aaztikdn0l0nv/oasis.m3u8?dl=0
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Astrocitrahd.png" group-title="Astro Malaysia",Astro BOO
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="Astro Malaysia",Astro BOO
 https://dl.dropboxusercontent.com/s/u04mt8q7y9goiy6/boo.m3u8?dl=0
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png" group-title="Astro Malaysia",Astro Warna
 http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
@@ -73,9 +73,9 @@ http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 ch-id="Astro Arena" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="Astro Malaysia",ASTRO ARENA HD
 http://starshare.live:8080/live/543678/546789/5479.ts
-#EXTINF:-1 ch-id="Astro Awani" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png" group-title="Astro Malaysia",ASTRO SUPER SPORTS 1 HD
+#EXTINF:-1 ch-id="Astro Awani" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png" group-title="Astro Malaysia",ASTRO SUPER SPORTS 1 HD
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
-#EXTINF:-1 ch-id="Astro Awani" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png" group-title="Astro Malaysia",ASTRO SUPER SPORTS 3 HD
+#EXTINF:-1 ch-id="Astro Awani" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Astro Malaysia",ASTRO SUPER SPORTS 3 HD
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png" group-title="Astro Malaysia", Arena
 http://45.58.62.92:8080
