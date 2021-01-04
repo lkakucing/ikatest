@@ -98,6 +98,8 @@ http://1.9.62.167/PLTV/88888888/224/3221227633/3221227633.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/bernama.png" group-title="Singapore/Malaysia",Channel Bernama Radio
 https://raw.githubusercontent.com/lkakucing/ikatest/main/xbernmax.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/kool.png" group-title="Singapore/Malaysia",Kool FM Radio
+https://raw.githubusercontent.com/lkakucing/ikatest/main/xkolx.m3u8
 #EXTINF:-1 tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="Singapore/Malaysia",Channel supersport1
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="Singapore/Malaysia",Channel supersport3
