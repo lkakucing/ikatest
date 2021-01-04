@@ -158,11 +158,10 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 
 
-# #EXTINF:-1 tvg-id=" " group-title="Religi" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png",TV Alhijrah
+#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png" group-title="Religi",TV Alhijrah
 # #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 # #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=
 # https://fvtv.mywire.org/dash/tvalhijrah.mpd
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cpv4vof.png" group-title="Religi",Saudi Qur'an
 http://m.live.net.sa:1935/live/quran/playlist.m3u8?checkedby
