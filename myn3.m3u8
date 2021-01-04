@@ -20,6 +20,8 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 http://rtmp.one.by:1300
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="movie",HBO Hits
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e3TvZtd.png" group-title="kid",TVO Kids
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 
 #EXTM3U
 ######################################### ASTRO #################################
@@ -79,6 +81,12 @@ http://starshare.live:8080/live/543678/546789/5479.ts
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:-1 ch-id="Astro Awani" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Astro Malaysia",ASTRO SUPER SPORTS 3 HD
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_300.png" group-title="Astro Malaysia",Astro Go Gaaya
+https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
+ #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/120_300.png" group-title="Astro Malaysia",Astro Go Rumma
+https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/303_300.png" group-title="Astro Malaysia",Astro Go Chinese
+https://agsplayback01.astro.com.my/CH2/master_GOSHOP2_04.m3u8
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png" group-title="Astro Malaysia", Arena
 http://45.58.62.92:8080
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="Astro Malaysia",Astro Prima Backup
@@ -90,7 +98,8 @@ http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/x2ZLVFOZiy4/maxresdefault.jpg" group-title="Astro Malaysia",Astro Ceria Backup
 http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Radio_Televisyen_Malaysia.svg/1200px-Radio_Televisyen_Malaysia.svg.png" group-title="Astro Malaysia", RTM Saluran Berita
-https://rtm1hdmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8?checkedby
+https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Astro Malaysia",TV3 Backup1
 https://foxsports01-i.akamaihd.net/hls/live/619466/fs2_sg/stream2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Astro Malaysia",TV3 Backup
@@ -155,8 +164,54 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 # #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=
 # https://fvtv.mywire.org/dash/tvalhijrah.mpd
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cpv4vof.png" group-title="Religi",Saudi Qur'an
+http://m.live.net.sa:1935/live/quran/playlist.m3u8?checkedby
+#http://210.210.155.35/session/dc5c3b00-7b7b-11e8-bf09-b82a72d63267/qwr9ew/s/s28/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QNf5yc5.png" group-title="Religi",Saudi Sunnah
+#http://playlive.goonj.pk/madinaweb_480p/index.m3u8
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?checkedby
+#http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HP4hpMS.jpg" group-title="Religi",Live Makkah 
+http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8?checkedby
+#http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/5HJxlCN.png" group-title="Religi",Al Bahjah
+https://edge.siar.us/albahjahtv/live/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/iTY628T.png" group-title="Religi",Ahsan TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zFzSodz.jpg" group-title="Religi",Tawaf TV
+http://stream2.ninmedia.tv:1935/tawaftv/rtmp.stream_360p/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/qnPongH.jpg" group-title="Religi",Al Iman
+http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jeZs6hk.jpg" group-title="Religi",Rodja TV
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y5nGUbz.png" group-title="Religi",Muadz TV 
+http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g31Kyf4.jpg" group-title="Religi",Nabawi TV
+http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8?checkedby
+#EXTINF:0 tvg-logo="https://i.imgur.com/sYsyaa7.png" group-title="Religi",Insan TV
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist-semp4k.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/yRPBhbL.jpg" group-title="Religi",Salam TV
+http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FPfQYDo.png" group-title="Religi",MTA TV
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(041307e6-5f66-42cc-9215-37bab1980265)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/03zmPAx.jpg" group-title="Religi",Surau TV
+http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vnZBhl8.jpg" group-title="Religi",AshiilTV
+http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8xhriyN.jpg" group-title="Religi",DMI Channel
+http://stream1.ninmedia.tv:1935/dmitv/udp.stream/chunklist_w578282898.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jGbnV2v.jpg" group-title="Religi",TV Alhijrah
+http://starshare.live:8080/live/543678/546789/5624.ts
+
 #EXTINF:-1 tvg-id=" " group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501.png",Astro Awani 
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YCPvNKO.jpg" group-title="News", Jakarta Globe News
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YfcOgUY.jpg" group-title="News", Berita Satu World
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
 #EXTINF:-1 tvg-id=" " group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",BERNAMA 
 https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8|Referer=https://www.youtube.com
@@ -228,7 +283,7 @@ http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id=" " group-title="News" tvg-logo="https://logo-logos.com/wp-content/uploads/2016/10/CNN_logo.png",CNN backup
 http://203.162.235.41:16918?checkedby
 
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Indonesia(32)",CNBC,CNBC Indonesia
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="News",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8?checkedby
 #EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Indonesia(32)",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8?checkedby
@@ -236,7 +291,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8?checkedb
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8?checkedby
 #EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Indonesia(32)",CNBC Indonesia 1
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8?checkedby
-#EXTINF:0 tvg-country="ID" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" group-title="Indonesia(32)",CNN Indonesia
+#EXTINF:0 tvg-country="ID" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" group-title="News",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672934803_b384000_sleng.m3u8?checkedby
 #EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="Indonesia(32)",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8?checkedby
