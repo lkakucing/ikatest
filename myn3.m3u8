@@ -158,11 +158,6 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png" group-title="Religi",TV Alhijrah
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=
-# https://fvtv.mywire.org/dash/tvalhijrah.mpd
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cpv4vof.png" group-title="Religi",Saudi Qur'an
 http://m.live.net.sa:1935/live/quran/playlist.m3u8?checkedby
 #http://210.210.155.35/session/dc5c3b00-7b7b-11e8-bf09-b82a72d63267/qwr9ew/s/s28/01.m3u8
@@ -200,9 +195,9 @@ http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8xhriyN.jpg" group-title="Religi",DMI Channel
 http://stream1.ninmedia.tv:1935/dmitv/udp.stream/chunklist_w578282898.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jGbnV2v.jpg" group-title="Religi",TV Alhijrah
-http://starshare.live:8080/live/543678/546789/5624.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jGbnV2v.jpg" group-title="Religi",TV Alhijrah 2
 https://fvtv.mywire.org/dash/tvalhijrah.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jGbnV2v.jpg" group-title="Religi",TV Alhijrah2
+http://starshare.live:8080/live/543678/546789/5624.ts
 #EXTINF:-1 tvg-id=" " group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501.png",Astro Awani 
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
