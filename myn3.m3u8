@@ -18,6 +18,13 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w76743512
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:0 tvg-logo="https://i.imgur.com/jE6NEKA.png" group-title="MUSIC",ONE
 http://rtmp.one.by:1300
+#EXTINF:-1 tvg-id=" " group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/0/0f/20111025041152%21MTV_Logo_2010.svg/120px-MTV_Logo_2010.svg.png",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 tvg-id=" " group-title="movie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png",HBO Family
+http://185.232.53.5:2086/arellano/kgtL965n2Y/88767?checkedby
+#EXTINF:-1 tvg-id=" " group-title="movie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png",HBO
+http://185.232.53.5:2086/arellano/kgtL965n2Y/3245?checkedby
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="movie",HBO Hits
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e3TvZtd.png" group-title="kid",TVO Kids
@@ -150,16 +157,8 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3
 #EXTINF:-1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="Singapore/Malaysia",TVIKIM
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="movie" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501.png",HBO Family
-http://185.232.53.5:2086/arellano/kgtL965n2Y/88767?checkedby
 
-#EXTINF:-1 tvg-id=" " group-title="movie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png",HBO
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3245?checkedby
-
-#EXTINF:-1 tvg-id=" " group-title="movie" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501.png",MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-
-# #EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png",TV Alhijrah
+# #EXTINF:-1 tvg-id=" " group-title="Religi" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png",TV Alhijrah
 # #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 # #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=
 # https://fvtv.mywire.org/dash/tvalhijrah.mpd
