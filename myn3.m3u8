@@ -23,75 +23,75 @@ http://rtmp.one.by:1300
 #EXTINF:-1 tvg-id=" " group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/0/0f/20111025041152%21MTV_Logo_2010.svg/120px-MTV_Logo_2010.svg.png",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png",HBO Family
+#EXTINF:-1 tvg-id="" group-title="MOVIES/TV SERIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png",HBO Family
 http://185.232.53.5:2086/arellano/kgtL965n2Y/88767?checkedby
-#EXTINF:-1 tvg-id="" group-title="movie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png",HBO
+#EXTINF:-1 tvg-id="" group-title="MOVIES/TV SERIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png",HBO
 http://185.232.53.5:2086/arellano/kgtL965n2Y/3245?checkedby
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="movie",HBO Hits
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIES/TV SERIES",HBO Hits
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-title="movie", ONE HD
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-title="MOVIES/TV SERIES", ONE HD
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71053
-#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" group-title="movie", Oh!K HD
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" group-title="MOVIES/TV SERIES", Oh!K HD
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71054
-#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" group-title="movie", tvN HD
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" group-title="MOVIES/TV SERIES", tvN HD
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71055
-#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="movie", HITS MOVIES HD
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="MOVIES/TV SERIES", HITS MOVIES HD
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71056
-#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="movie", HBO HD
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="MOVIES/TV SERIES", HBO HD
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71057
-#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png" group-title="movie", HBO
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png" group-title="MOVIES/TV SERIES", HBO
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/1711
-#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="movie", CINEMAX HD
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="MOVIES/TV SERIES", CINEMAX HD
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71058
-#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" group-title="movie", tvN Movies
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" group-title="MOVIES/TV SERIES", tvN Movies
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71059
-#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png" group-title="movie", WARNER TV
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png" group-title="MOVIES/TV SERIES", WARNER TV
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71094
-#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/262_144.png" group-title="movie", COMEDY CENTRAL
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/262_144.png" group-title="MOVIES/TV SERIES", COMEDY CENTRAL
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71098
-#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" group-title="movie", AXN HD
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" group-title="MOVIES/TV SERIES", AXN HD
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71087
-#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/184_144.png" group-title="movie", FOX Action Movies
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/184_144.png" group-title="MOVIES/TV SERIES", FOX Action Movies
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71114
-#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/151_144.png" group-title="movie", FOX HD
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/151_144.png" group-title="MOVIES/TV SERIES", FOX HD
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71115
-#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/170_144.png" group-title="movie", FOX Family Movies
-#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/157_144.png" group-title="movie", Kix HD
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/170_144.png" group-title="MOVIES/TV SERIES", FOX Family Movies
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/157_144.png" group-title="MOVIES/TV SERIES", Kix HD
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/1716
-#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/388_144.png" group-title="movie", Star Chinese Channel
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/388_144.png" group-title="MOVIES/TV SERIES", Star Chinese Channel
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/1715
-#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/387_144.png" group-title="movie", XIAO TAI YANG
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/387_144.png" group-title="MOVIES/TV SERIES", XIAO TAI YANG
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/1714
-#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="movie", SCM Legend
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="MOVIES/TV SERIES", SCM Legend
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/1713
-#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png" group-title="movie", TVB CLASSIC
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png" group-title="MOVIES/TV SERIES", TVB CLASSIC
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/1712
-#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="movie", CELESTIAL
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="MOVIES/TV SERIES", CELESTIAL
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/1718
 
-#EXTINF:-1 tvg-id=" " group-title="movie" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/rtl-cbs-entertainment.png",Blue Ant Entertainment
+#EXTINF:-1 tvg-id=" " group-title="MOVIES/TV SERIES" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/rtl-cbs-entertainment.png",Blue Ant Entertainment
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71121
-#EXTINF:-1 tvg-id=" " group-title="movie" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/rtl-cbs-extreme.png",Blue Ant Extreme
+#EXTINF:-1 tvg-id=" " group-title="MOVIES/TV SERIES" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/rtl-cbs-extreme.png",Blue Ant Extreme
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71122
-#EXTINF:-1 tvg-id=" " group-title="movie" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/cinema-world.png",Cinema World HD
+#EXTINF:-1 tvg-id=" " group-title="MOVIES/TV SERIES" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/cinema-world.png",Cinema World HD
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71124
-#EXTINF:-1 tvg-id=" " group-title="movie" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/Zee-Cinema.png",Colors Cineplex
+#EXTINF:-1 tvg-id=" " group-title="MOVIES/TV SERIES" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/Zee-Cinema.png",Colors Cineplex
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71125
-#EXTINF:-1 tvg-id=" " group-title="movie" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/dreamworks.png",Dreamworks HD
+#EXTINF:-1 tvg-id=" " group-title="MOVIES/TV SERIES" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/dreamworks.png",Dreamworks HD
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71126
-#EXTINF:-1 tvg-id=" " group-title="movie" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/dunia-sinema.png",Dunia Sinema
+#EXTINF:-1 tvg-id=" " group-title="MOVIES/TV SERIES" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/dunia-sinema.png",Dunia Sinema
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71127
-#EXTINF:-1 tvg-id=" " group-title="movie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/137_144.png",FOX Life HD
+#EXTINF:-1 tvg-id=" " group-title="MOVIES/TV SERIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/137_144.png",FOX Life HD
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71128
-#EXTINF:-1 tvg-id=" " group-title="movie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/11_144.png",FOX Movies HD
+#EXTINF:-1 tvg-id=" " group-title="MOVIES/TV SERIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/11_144.png",FOX Movies HD
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71129
-#EXTINF:-1 tvg-id=" " group-title="movie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/132_144.png",FX Cinema HD
+#EXTINF:-1 tvg-id=" " group-title="MOVIES/TV SERIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/132_144.png",FX Cinema HD
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71130
-#EXTINF:-1 tvg-id=" " group-title="movie" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/paramount-channel.png",Paramount Channel
+#EXTINF:-1 tvg-id=" " group-title="MOVIES/TV SERIES" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/paramount-channel.png",Paramount Channel
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71135
-#EXTINF:-1 tvg-id=" " group-title="movie" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/pesona.png",Pesona HD
+#EXTINF:-1 tvg-id=" " group-title="MOVIES/TV SERIES" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/pesona.png",Pesona HD
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71136
-#EXTINF:-1 tvg-id=" " group-title="movie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/267_144.png",Tayangan Hebat
+#EXTINF:-1 tvg-id=" " group-title="MOVIES/TV SERIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/267_144.png",Tayangan Hebat
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71147
 
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Cartoon/Anime/Kids",ASTRO CERIA HD
