@@ -100,23 +100,23 @@ http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71136
 #EXTINF:-1 tvg-id=" " group-title="movie" tvg-logo="",Tayangan Hebat
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71147
 
-#EXTINF:0 tvg-logo="" group-title="Cartoon/Anime/Kid",ASTRO CERIA HD
+#EXTINF:0 tvg-logo="" group-title="Cartoon/Anime/Kids",ASTRO CERIA HD
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71080
-#EXTINF:0 tvg-logo="" group-title="Cartoon/Anime",ANIMAX
+#EXTINF:0 tvg-logo="" group-title="Cartoon/Anime/Kid",ANIMAX
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71100
-#EXTINF:0 tvg-logo="" group-title="Cartoon/Anime",DISNEY XD HD
+#EXTINF:0 tvg-logo="" group-title="Cartoon/Anime/Kids",DISNEY XD HD
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71081
-#EXTINF:0 tvg-logo="" group-title="Cartoon/Anime",DISNEY JUNIOR
+#EXTINF:0 tvg-logo="" group-title="Cartoon/Anime/Kids",DISNEY JUNIOR
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71082
-#EXTINF:0 tvg-logo="" group-title="Cartoon/Anime",DISNEY CHANNEL HD
+#EXTINF:0 tvg-logo="" group-title="Cartoon/Anime/Kids",DISNEY CHANNEL HD
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71083
-#EXTINF:0 tvg-logo="" group-title="Cartoon/Anime",CARTOON NTWK HD
+#EXTINF:0 tvg-logo="" group-title="Cartoon/Anime/Kids",CARTOON NTWK HD
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71084
-#EXTINF:0 tvg-logo="" group-title="Cartoon/Anime",NICKELODEON HD
+#EXTINF:0 tvg-logo="" group-title="Cartoon/Anime/Kids",NICKELODEON HD
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71085
-#EXTINF:0 tvg-logo="" group-title="Cartoon/Anime",NICK JR
+#EXTINF:0 tvg-logo="" group-title="Cartoon/Anime/Kids",NICK JR
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71086
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e3TvZtd.png" group-title="Cartoon/Anime/Kid",TVO Kids
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e3TvZtd.png" group-title="Cartoon/Anime/Kids",TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Documentary/Tutor",NGW HD
