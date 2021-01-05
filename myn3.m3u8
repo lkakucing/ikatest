@@ -434,7 +434,8 @@ http://starshare.live:8080/live/543678/546789/5624.ts
 #EXTINF:-1 tvg-id=" " group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501.png",Astro Awani 
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-id=" " group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501.png",Astro Awani backup
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110206.m3u8
+http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71060
+##http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110206.m3u8##
 
 ####### Tilawah Al-Qur'an ####### 
 #EXTINF:-1 tvg-logo="https://t3.ftcdn.net/jpg/03/40/47/28/240_F_340472833_gneCHu0sqoHYAcycyA3FiwMJlcuZ2gmZ.jpg" group-title="TILAWAH ALQUR'AN", [001] Surah Alfatihah (Pembukaan) 
