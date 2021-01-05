@@ -258,7 +258,7 @@ http://cdnak10.cast4u.info/channels/4/10804.m3u8
 https://raw.githubusercontent.com/lkakucing/ikatest/main/xbernmax.m3u8
 #EXTINF:-1 tvg-logo="http://pwaimg.listenlive.co/BFM_2336851_config_station_logo_image_1554434085.png" group-title="Singapore/Malaysia Radio",BFM
 http://21283.live.streamtheworld.com/BFMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-033&csegid=888&dist=triton-web&tdsdk=js-2.9&banners=none&sbmid=0a2f40ac-36c0-4279-a31e-e335bb55a5e3
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/kool.png" group-title="Singapore/Malaysia",Kool FM Radio
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/kool.png" group-title="Singapore/Malaysia Radio",Kool FM Radio
 https://raw.githubusercontent.com/lkakucing/ikatest/main/xkolx.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Mediacorp_Suria_logo.jpg/330px-Mediacorp_Suria_logo.jpg" group-title="Singapore/Malaysia Radio",Suria
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/1700
