@@ -25,6 +25,23 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-id="KIS.UK" tvg-logo="http://static.epg.best/gb/KissTV.uk.png" group-title="MUSIC",Kiss
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
 
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://teevee-hd.com/img/truemusic.png",True Music HD
+http://160.119.77.116:8081/iptv/sd-tmusic.stream/playlist.m3u8
+#http://dootvthai-hd.com/cmd/true/true-music-hd/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/mtvlive.png",MTV LIVE
+#http://host4.dynns.com/wevelwe/8d45473ff4ca44d79e1abc4516c2fee0.m3u8
+#http://160.119.77.116:8081/iptv/hd-mtvlive.stream/playlist.m3u8
+http://203.154.177.124:8899/live/ch2/playlist.m3u8
+#http://kodinew.dyndns.tv:9981/stream/channelid/859415194?ticket=B94F022535096FDA0AD42C8281373F3FDBD042FC&profile=pass
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://stopcyberbullyingday.org/wp-content/uploads/2016/01/MTV-logo.jpg",MTV CHINA
+#http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8?seg-user-4pda-denms-ru-v1-a1
+#http://160.119.77.116:8081/iptv/sd-mtvchina.stream/playlist.m3u8
+http://203.154.177.124:8899/live/ch16/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://teevee-hd.com/img/mtvasia.png",MTV ASIA
+#http://host4.dynns.com/wevelwe/deb56e700dbc4d9ea5af08e9d300a675.m3u8
+#http://160.119.77.116:8081/iptv/sd-mtvasia.stream/playlist.m3u8
+http://203.154.177.124:8899/live/ch4/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FM4.UK" tvg-logo="https://static.epg.best/gb/Film4.uk.png" group-title="MOVIES/TV SERIES",Film 4
 http://178.132.3.162:88/Film_4/video.m3u8?token=test
 #EXTINF:-1 tvg-id="BIT.US" tvg-logo="https://thebritishtvplace.com/wp-content/uploads/2019/07/British-TV-on-Pluto-TV.png" group-title="MOVIES/TV SERIES",British TV
@@ -53,6 +70,8 @@ http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71058
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71059
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png" group-title="MOVIES/TV SERIES", WARNER TV
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71094
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png" group-title="MOVIES/TV SERIES", WARNER TV THAI
+http://160.119.77.116:8081/iptv/hd-warnertv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/262_144.png" group-title="MOVIES/TV SERIES", COMEDY CENTRAL
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71098
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" group-title="MOVIES/TV SERIES", AXN HD
@@ -149,6 +168,116 @@ http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71077
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71078
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/118_144.png" group-title="Documentary/Tutor",TVIQ
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71079
+
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://1063thefox.com/wp-content/uploads/2020/02/2.5.20-Food.png",FOOD NETWORK
+http://dootvthai-hd.com/cmd/api/true/FOOD-NETWORK-HD/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://www.bworldonline.com/wp-content/uploads/2017/05/AFN-logo-e1578559005304.jpg",ASIAN FOOD NETWORK
+http://dootvthai-hd.com/cmd/true/asian-food-channel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="historychannel.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY TH
+http://160.119.77.116:8081/iptv/hd-history.stream/playlist.m3u8
+#http://196.52.105.238:9997/History/tracks-v1a1/mono.m3u8
+#http://54.37.82.205:8081/liveorigin/hd-history_720/playlist.m3u8
+#https://doofootball.livestream-cdn.com/iptv/hd-history.stream/chunks.m3u8
+#http://dootvthai-hd.com/cmd/api/true/HISTORY-CHANNEL-HD/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="historychannel.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY EH
+http://160.119.77.116:8081/iptv/hd-historyeng.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=""group-title="Knowledge"tvg-logo="https://presentationarchive.com/discoveryhistory/sting-b.jpg",DISCOVERY HISTORY 
+http://160.119.77.116:8081/iptv/uk-discoveryhistory.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="history2.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/h2hd.png",H2
+#http://196.52.105.238:9997/H2/tracks-v1a1/mono.m3u8
+#http://54.37.82.205:8081/liveorigin/hd-history2_720/playlist.m3u8
+http://160.119.77.116:8081/iptv/hd-history2.stream/playlist.m3u8
+#https://doofootball.livestream-cdn.com/iptv/hd-history2.stream/chunks.m3u8
+#http://dootvthai-hd.com/cmd/api/true/H2/playlist.m3u8
+#EXTINF:-1 tvg-id="history2.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/h2hd.png",H2 UK
+http://160.119.77.116:8081/iptv/uk-history2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="discovery.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/discovery.png",Discovery TH
+#http://203.150.107.30:8081/tested2iptv/core201/playlist.m3u8
+https://livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
+#http://160.119.77.116:8081/iptv/uk-discovery.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="discovery.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/discoveyasiax.png",DiscoveryAsia 
+http://160.119.77.116:8081/iptv/hd-discovery.stream/playlist.m3u8
+#https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8
+#http://27.254.149.109:8081/live/discovery.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="trueexploresci.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/truesci.png",TRUE EXPLORE SCI
+#https://doofootball.livestream-cdn.com/iptv/sd-expsci.stream/chunks.m3u8
+#http://160.119.77.116:8081/iptv/sd-expsci.stream/playlist.m3u8
+#http://dootvthai-hd.com/cmd/true/true-explore-sci/playlist.m3u8
+#http://54.37.82.205:8081/liveorigin/sd-expsci_480/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Knowledge" tvg-logo="https://teevee-hd.com/img/truelife.png",TRUE EXPLORE LIFE
+http://160.119.77.116:8081/iptv/sd-explife.stream/playlist.m3u8
+#https://doofootball.livestream-cdn.com/iptv/sd-explife.stream/chunks.m3u8
+#http://54.37.82.205:8081/liveorigin/sd-explife_480/playlist.m3u8
+#http://dootvthai-hd.com/cmd/true/true-explore-life/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id=""group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/truewild.png",TRUE EXPLORE WILD
+#https://doofootball.livestream-cdn.com/iptv/sd-expwild.stream/chunks.m3u8
+http://160.119.77.116:8081/iptv/sd-expwild.stream/playlist.m3u8
+#http://dootvthai-hd.com/cmd/true/true-explore-wild/playlist.m3u8
+#http://54.37.82.205:8081/liveorigin/sd-expwild_480/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/natgeo.png",NAT GEOGRAPHIC TH 
+http://160.119.77.116:8081/iptv/hd-natgeo.stream/playlist.m3u8
+#http://dootvthai-hd.com/cmd/api/true/national-geographic-hd/playlist.m3u8
+#http://54.37.82.205:8081/liveorigin/hd-natgeo_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id=""group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/natpeople.png",NAT GEO PEOPLE
+#http://160.119.77.116:8081/iptv/hd-natgeopeopleeng.stream/playlist.m3u8
+#http://54.37.82.205:8081/liveorigin/hd-natgeopeopleeng_720/playlist.m3u8
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/18570
+
+#EXTINF:-1 tvg-id=""group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/natwild.png",NAT GEO WILD
+#http://160.119.77.116:8081/iptv/hd-natgeowildeng.stream/playlist.m3u8
+http://54.37.82.205:8081/liveorigin/hd-natgeowild_720/playlist.m3u8
+#http://host4.dynns.com/wevelwe/90d14bbf53d14b018d4439ffba6be283.m3u8
+#https://live.we-play.tv/android/natwild/playlist.m3u8
+#http://iliketot.dyndns.tv/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 tvg-id="animalplanet.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/animalplanet.png",ANIMAL PLANET
+#http://160.119.77.116:8081/iptv/sd-animalplanet.stream/playlist.m3u8
+https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
+
+#EXTINF:-1 tvg-id=""group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/samrujrok.png",SAMRUJLOK
+#http://103.253.72.107:9997/samrojlok/tracks-v1a1/mono.m3u8
+#http://27.254.149.109:8081/tumlive/SamRujRok.stream/playlist.m3u8
+#https://live.we-play.tv/android/samruajlok/playlist.m3u8
+#http://live.9koh.com:8000/live/a-play/stream/36.m3u8
+
+#EXTINF:-1 tvg-id="bbcearth.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/bbcearth.png",BBC EARTH
+https://doofootball.livestream-cdn.com/iptv/sd-bbcearth.stream/chunks.m3u8
+#https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8
+#https://livecdn.fptplay.net/qnetlive/bbcearth_2000.stream/chunklist.m3u8
+#http://160.119.77.116:8081/iptv/sd-bbcearth.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://pbs.twimg.com/profile_images/924843911855476736/bf0a9z2U_400x400.jpg",True Pookpanya
+#http://dootvthai-hd.com/cmd/api/true/TRUEPLOOKPANYA/playlist.m3u8
+#http://160.119.77.116:8081/iptv/sd-tppy.stream/playlist.m3u8
+#EXTINF:-1 gtvg-id=""group-title="Knowledge"tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple1/v4/a5/f2/6c/a5f26cbd-d327-0c1d-bc30-eb8747c7d4fd/pr_source.png/246x0w.png",RAMA CHANNEL
+#http://160.119.77.116:8081/iptv/sd-rama.stream/playlist.m3u8
+#http://dootvthai-hd.com/cmd/api/true/RAMA-CHANNEL/playlist.m3u8
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://pmcvariety.files.wordpress.com/2013/10/animalist-logo.jpg",World Animal
+http://203.154.243.32:8088/live/wanimal/index.m3u8
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://pbs.twimg.com/profile_images/653546209488052224/iZA1Cnu-.png",BBC Lifestyle
+https://doofootball.livestream-cdn.com/iptv/sd-bbclifestyle.stream/chunks.m3u8
+#https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#http://27.254.149.109:8081/tumlive/BBCLifestyle/playlist.m3u8
+#http://160.119.77.116:8081/iptv/sd-bbclifestyle.stream/playlist.m3u8
+#https://streaming.livescorethai.net/iptv/sd-bbclifestyle.stream/chunks.m3u8
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/IB2/IB2_large.png",Outdoor Channel
+#http://dootvthai-hd.com/cmd/api/true/OUTDOOR-CHANNEL/playlist.m3u8
+#http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/media_w981409619_b1105254_3604.ts?fluxustv.m3u8
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Knowledge"tvg-logo="https://psisat.com/wp-content/uploads/2018/09/logo-psi2018.png",PSI
+http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 
 #EXTM3U
 ######################################### ASTRO #################################
@@ -306,6 +435,219 @@ http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71137
 
 #EXTINF:-1 tvg-logo="http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/LOGO%20RTB%20SUKMAINDERA.png" group-title="Brunei",RTB Sukmaindera 
 https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="channel3.th" group-title="Thailand"tvg-logo="https://www.234.in.th/images/2020/11/17/ch3-hd.png",3 HD
+http://160.119.77.116:8081/iptv/hd-ch3.stream/playlist.m3u8
+#https://streaming.livescorethai.net/iptv/hd-ch3.stream/chunks.m3u8
+#https://cdnlive.goprimetime.info/feed/ch3hd/index.m3u8
+
+#EXTINF:-1 tvg-id="channel3.th" group-title="Thailand"tvg-logo="https://www.234.in.th/images/2020/11/17/ch3.png",3 HD
+https://cdnlive.goprimetime.info/feed/ch3hd/index.m3u8
+
+#EXTINF:-1 tvg-id="channel3.th" group-title="Thailand"tvg-logo="https://www.234.in.th/images/2020/11/17/ch3.png",3 HD
+https://streaming.livescorethai.net/iptv/hd-ch3.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Thailand"tvg-logo="https://www.234.in.th/images/2020/11/17/ch5.png",5 HD 
+#https://cdnlive.goprimetime.info/feed/ch5hd/index.m3u8
+#http://160.119.77.116:8081/iptv/hd-ch5.stream/playlist.m3u8
+#https://streaming.livescorethai.net/iptv/hd-ch5.stream/chunks.m3u8
+http://27.254.130.56:80/live01/ch6.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Thailand"tvg-logo="https://www.234.in.th/images/2020/11/17/ch5.png",5 HD 
+https://cdnlive.goprimetime.info/feed/ch5hd/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Thailand"tvg-logo="https://www.234.in.th/images/2020/11/17/ch5.png",5 HD 
+http://160.119.77.116:8081/iptv/hd-ch5.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Thailand"tvg-logo="https://www.234.in.th/images/2020/11/17/ch5.png",5 HD 
+#http://103.120.113.90:1935/psilive1a/5HD.stream/playlist.m3u8
+http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="channel7.th" group-title="Thailand"tvg-logo="https://www.234.in.th/images/2020/11/17/ch7.png",7 HD             	
+#https://cdnlive.goprimetime.info/feed/ch7hd/index.m3u8
+#http://160.119.77.116:8081/iptv/hd-ch7.stream/playlist.m3u8
+#https://streaming.livescorethai.net/iptv/hd-ch7.stream/chunks.m3u8
+http://27.254.130.56:80/live01/ch1.m3u8
+
+#EXTINF:-1 tvg-id="channel7.th" group-title="Thailand"tvg-logo="https://www.234.in.th/images/2020/11/17/ch7.png",7 HD             	
+https://cdnlive.goprimetime.info/feed/ch7hd/index.m3u8
+
+#EXTINF:-1 tvg-id="channel7.th" group-title="Thailand"tvg-logo="https://www.234.in.th/images/2020/11/17/ch7.png",7 HD             	
+https://cdnlive.goprimetime.info/feed/ch7hd/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Thailand"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT 
+http://160.119.77.116:8081/iptv/hd-mcot.stream/playlist.m3u8
+#https://cdnlive.goprimetime.info/feed/chmcothd/index.m3u8
+#https://streaming.livescorethai.net/iptv/hd-mcot.stream/chunks.m3u8
+#http://103.22.182.242:8081/app/mcothd/chunks.m3u8
+#http://27.254.130.61/live01/ch12.m3u8?p=st
+
+#EXTINF:-1 tvg-id="" group-title="Thailand"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT 
+https://doofootball.livestream-cdn.com/iptv/hd-mcot.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Thailand"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT 
+http://27.254.130.61/live01/ch12.m3u8?p=st
+
+#EXTINF:-1 tvg-id="" group-title="Thailand"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT 
+https://cdnlive.goprimetime.info/feed/chmcothd/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Thailand"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT HD
+http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Thailand"tvg-logo="https://teevee-hd.com/img/nbt.png",NBT HD
+#http://160.119.77.116:8081/iptv/sd-nbt.stream/playlist.m3u8
+#http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
+http://27.254.130.56:80/live01/ch4.m3u8
+#https://cdnlive.goprimetime.info/feed/chnbt/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Thailand"tvg-logo="https://teevee-hd.com/img/nbt.png",NBT HD
+#http://dootvthai-hd.com/cmd/true/NBT-HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Thairath.th" group-title="Thailand"tvg-logo="https://teevee-hd.com/img/thairath.png",Thairat TV
+#http://160.119.77.116:8081/iptv/hd-thairath.stream/playlist.m3u8
+#http://27.254.130.56:80/live01/ch9.m3u8
+#https://cdnlive.goprimetime.info/feed/chthairath/index.m3u8
+http://live.thairath.co.th/trtv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Thairath.th" group-title="Thailand"tvg-logo="https://teevee-hd.com/img/thairath.png",Thairat TV HD
+#http://dootvthai-hd.com/cmd/true/Thairathtv-HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="amarintv.th" group-title="Thailand"tvg-logo="https://teevee-hd.com/img/amarin.png",Amarin TV 
+#http://160.119.77.116:8081/iptv/hd-amarin.stream/playlist.m3u8
+http://27.254.130.61/live01/ch13.m3u8?p=st
+#https://cdnlive.goprimetime.info/feed/chamarin/index.m3u8
+
+#EXTINF:-1 tvg-id="amarintv.th" group-title="Thailand"tvg-logo="https://teevee-hd.com/img/amarin.png",Amarin TV HD
+#http://dootvthai-hd.com/cmd/true/Amarintv-HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="One31.th" group-title="Thailand"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE 
+#http://160.119.77.116:8081/iptv/hd-gmmone.stream/playlist.m3u8
+http://one31-rlbwkq.cdn.byteark.com:80/live/playlist_720p/index.m3u8
+#https://cdnlive.goprimetime.info/feed/chonehd/index.m3u8
+#http://27.254.130.56:80/live01/ch10.m3u8
+#http://live.pjmcdn.info/live/ONE-HD.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="One31.th" group-title="Thailand"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE 
+http://27.254.130.56:80/live01/ch10.m3u8
+
+#EXTINF:-1 tvg-id="One31.th" group-title="Thailand"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE 
+https://cdnlive.goprimetime.info/feed/chonehd/index.m3u8
+
+#EXTINF:-1 tvg-id="One31.th" group-title="Thailand"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE 
+http://160.119.77.116:8081/iptv/hd-gmmone.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PPTV.th" group-title="Thailand"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV HD
+#http://160.119.77.116:8081/iptv/hd-pptv.stream/playlist.m3u8
+http://27.254.130.56:80/live01/ch2.m3u8
+#https://cdnlive.goprimetime.info/feed/chpptvhd/index.m3u8
+#http://183.182.100.184/live/pptvthai/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PPTV.th" group-title="Thailand"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV HD
+https://cdnlive.goprimetime.info/feed/chpptvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="PPTV.th" group-title="Thailand"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV HD
+http://183.182.100.184/live/pptvthai/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Thailand"tvg-logo="https://www.234.in.th/images/2020/11/17/thaipbs.png",Thai PBS 
+#http://160.119.77.116:8081/iptv/hd-tpbs.stream/playlist.m3u8
+#https://cdnlive.goprimetime.info/feed/chthaipbs/index.m3u8
+#http://27.254.130.61/live01/ch14.m3u8?p=st
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Thailand"tvg-logo="https://www.234.in.th/images/2020/11/17/thaipbs.png",Thai PBS 
+http://160.119.77.116:8081/iptv/hd-tpbs.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Thailand"tvg-logo="https://www.234.in.th/images/2020/11/17/thaipbs.png",Thai PBS 
+https://cdnlive.goprimetime.info/feed/chthaipbs/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Thailand"tvg-logo="https://www.234.in.th/images/2020/11/17/thaipbs.png",Thai PBS 
+http://27.254.130.61/live01/ch14.m3u8?p=st
+
+#EXTINF:-1 tvg-id="" group-title="Thailand"tvg-logo="https://www.234.in.th/images/2020/11/17/thaipbs.png",Thai PBS 
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Thailand"tvg-logo="https://www.234.in.th/images/2020/11/17/thaipbs.png",Thai PBS 
+https://doomovielive.b-cdn.net/hd-tpbs_720/index.m3u8
+
+#EXTINF:-1 tvg-id="Workpoint.th"group-title="Thailand"tvg-logo="https://teevee-hd.com/img/workpoint.png",WORKPOINT TV 
+http://27.254.130.56:80/live01/ch7.m3u8
+#https://cdnlive.goprimetime.info/feed/chworkpoint/index.m3u8
+
+#EXTINF:-1 tvg-id="Workpoint.th"group-title="Thailand"tvg-logo="https://teevee-hd.com/img/workpoint.png",WORKPOINT TV FHD
+#http://dootvthai-hd.com/cmd/true/Workpointtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="true4U.th" group-title="Thailand"tvg-logo="https://teevee-hd.com/img/true4u.png",True4U
+#http://160.119.77.116:8081/iptv/sd-24u.stream/playlist.m3u8
+#http://183.182.100.184/live/true4u/chunklist.m3u8
+#https://cdnlive.goprimetime.info/feed/chtrue4u/index.m3u8
+http://54.37.82.205:8081/liveorigin/sd-24u_480/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="GMM25.th" group-title="Thailand"tvg-logo="https://teevee-hd.com/img/gmm.png",GMM Channel
+#http://160.119.77.116:8081/iptv/sd-gmmchannel.stream/playlist.m3u8
+#http://27.254.130.56:80/live01/ch11.m3u8
+#http://27.254.130.61/live01/ch11.m3u8?p=st
+#https://cdnlive.goprimetime.info/feed/chgmm/index.m3u8
+http://183.182.100.184/live/mcothd/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="channel8.th" group-title="Thailand"tvg-logo="https://teevee-hd.com/img/ch2.png",CH2
+http://stream.rs.co.th/ch2-hi/index.m3u8
+
+#EXTINF:-1 tvg-id="channel8.th" group-title="Thailand"tvg-logo="https://teevee-hd.com/img/ch8.png",CH8
+http://stream.rs.co.th/ch8-hi/index.m3u8
+#https://cdnlive.goprimetime.info/feed/ch8/index.m3u8
+
+#EXTINF:-1 tvg-id="TNN24.th" group-title="Thailand"tvg-logo="https://www.234.in.th/images/2020/11/17/Rounded_20201113_145003.png",TNN16
+#http://160.119.77.116:8081/iptv/sd-tnn24.stream/playlist.m3u8
+#https://cdnlive.goprimetime.info/feed/chtnn/index.m3u8
+#http://niklive.com:80/live/warning/index.m3u8/314
+http://54.37.82.205:8081/liveorigin/sd-tnn24_480/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNN24.th" group-title="Thailand"tvg-logo="https://www.234.in.th/images/2020/11/17/Rounded_20201113_145003.png",TNN16
+http://160.119.77.116:8081/iptv/sd-tnn24.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNN24.th" group-title="Thailand"tvg-logo="https://www.234.in.th/images/2020/11/17/Rounded_20201113_145003.png",TNN16
+https://cdnlive.goprimetime.info/feed/chtnn/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Thailand"tvg-logo="https://www.234.in.th/images/2020/11/17/nation.png",NATION TV
+#http://160.119.77.116:8081/iptv/sd-nation.stream/playlist.m3u8
+#https://cdnlive.goprimetime.info/feed/chnation/index.m3u8
+http://54.37.82.205:8081/liveorigin/sd-nation_480/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Thailand"tvg-logo="https://www.234.in.th/images/2020/11/17/nation.png",NATION TV
+#http://160.119.77.116:8081/iptv/sd-nation.stream/playlist.m3u8
+https://cdnlive.goprimetime.info/feed/chnation/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Thailand"tvg-logo="https://www.234.in.th/images/2020/11/17/nation.png",NATION TV
+http://160.119.77.116:8081/iptv/sd-nation.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Thailand"tvg-logo="https://www.234.in.th/images/2020/11/17/newtv.png",NEW TV
+#http://160.119.77.116:8081/iptv/sd-new.stream/playlist.m3u8
+#https://cdnlive.goprimetime.info//feed//newtv//index.m3u8
+https://www.livedoomovies.com/02_NEW_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Thailand"tvg-logo="https://www.234.in.th/images/2020/11/17/newtv.png",NEW TV
+#http://160.119.77.116:8081/iptv/sd-new.stream/playlist.m3u8
+https://cdnlive.goprimetime.info//feed//newtv//index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Thailand"tvg-logo="https://www.234.in.th/images/2020/11/17/newtv.png",NEW TV
+http://160.119.77.116:8081/iptv/sd-new.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Thailand"tvg-logo="https://f.ptcdn.info/890/024/000/1414325308-o.png",TPTV
+http://49.231.66.85:1935/live/tptv/playlist.m3u8
+
+#EXTINF:-1 gtvg-id=""group-title="Thailand"tvg-logo="https://teevee-hd.com/img/voicetv.png",Voice TV
+https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
+#https://edge6a.v2h-cdn.com//appt3//WOWSH.stream_720p//chunklist_w142679599.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Thailand" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/f1b957db-b175-45fc-ab2b-60150f9c570a.png",TNN2
+#http://160.119.77.116:8081/iptv/sd-tnn2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Thailand" tvg-logo="https://teevee-hd.com/img/news1.png",New1
+#http://news1.live14.com/stream/news1_hi.m3u8
+https://server1.streamssl.com/stream/news1_hi.m3u8
 
 #EXTINF:-1 tvg-id="EP1.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="SPORT",Premier HD1
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
