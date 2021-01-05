@@ -769,14 +769,6 @@ http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id=" " group-title="News" tvg-logo="https://logo-logos.com/wp-content/uploads/2016/10/CNN_logo.png",CNN backup
 http://203.162.235.41:16918?checkedby
 
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Indonesia(32)",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8?checkedby
-#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Indonesia(32)",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8?checkedby
-#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Indonesia(32)",CNBC Indonesia 1
-http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8?checkedby
-#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="Indonesia(32)",CNN Indonesia
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8?checkedby
 
 #EXTINF:-1 tvg-id=" " group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
@@ -820,6 +812,15 @@ https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 #EXTINF:-1 tvg-id=" " group-title="Sports" tvg-logo="https://tch.spott2.sportradar.com/assets/img/Tennischannel/TC-logo-green.png",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Indonesia",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8?checkedby
+#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Indonesia",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8?checkedby
+#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Indonesia",CNBC Indonesia 1
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8?checkedby
+#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="Indonesia",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8?checkedby
 #EXTINF:-1 tvg-logo="http://www.jtv.co.id/image/logojtv1.png" group-title="Indonesia",JTV
 http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8
 #EXTINF:-1 tvg-logo="https://s3-us-east-2.amazonaws.com/indotrainee/live/logo/company/56/1526461708-46-56.png" group-title="Indonesia",Jakarta Globe
