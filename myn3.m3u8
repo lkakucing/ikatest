@@ -256,8 +256,6 @@ https://raw.githubusercontent.com/lkakucing/ikatest/main/xbernmax.m3u8
 https://raw.githubusercontent.com/lkakucing/ikatest/main/xkolx.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Mediacorp_Suria_logo.jpg/330px-Mediacorp_Suria_logo.jpg" group-title="Singapore/Malaysia",Suria
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/1700
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/295_144.png" group-title="Singapore/Malaysia",Channel NewsAsia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png" group-title="Singapore/Malaysia",RTM 1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png" group-title="Singapore/Malaysia",RTM 1 HD
@@ -282,8 +280,6 @@ https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b206400
 http://parlimennegaramobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b3696000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Singapore/Malaysia",RTM Sports
 https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
-#EXTINF:-1 tvg-logo="http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/LOGO%20RTB%20SUKMAINDERA.png" group-title="Singapore/Malaysia",RTB Sukmaindera 
-https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Singapore/Malaysia",TV3
 https://raw.githubusercontent.com/lkakucing/ikatest/main/txx.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Singapore/Malaysia",NTV7 
@@ -294,8 +290,11 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="Singapore/Malaysia",TVIKIM
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Singapore/Malaysia",Salaam HD
+#EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/salam.png" group-title="Singapore/Malaysia",Salam HD
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71137
+
+#EXTINF:-1 tvg-logo="http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/LOGO%20RTB%20SUKMAINDERA.png" group-title="Brunei",RTB Sukmaindera 
+https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cpv4vof.png" group-title="Religi",Saudi Qur'an
 http://m.live.net.sa:1935/live/quran/playlist.m3u8?checkedby
@@ -661,6 +660,8 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
 #EXTINF:-1 tvg-id=" " group-title="News" tvg-logo=https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel NewsAsia 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/295_144.png" group-title="News",Channel NewsAsia backup
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 tvg-id=" " group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png",Bloomberg 
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
