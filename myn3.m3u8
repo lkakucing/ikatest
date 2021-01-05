@@ -22,9 +22,13 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 http://rtmp.one.by:1300
 #EXTINF:-1 tvg-id=" " group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/0/0f/20111025041152%21MTV_Logo_2010.svg/120px-MTV_Logo_2010.svg.png",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-id="KIS.UK" tvg-logo="http://static.epg.best/gb/KissTV.uk.png" group-title="MUSIC",Kiss
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
 
+#EXTINF:-1 tvg-id="FM4.UK" tvg-logo="https://static.epg.best/gb/Film4.uk.png" group-title="MOVIES/TV SERIES",Film 4
+http://178.132.3.162:88/Film_4/video.m3u8?token=test
 #EXTINF:-1 tvg-id="BIT.US" tvg-logo="https://thebritishtvplace.com/wp-content/uploads/2019/07/British-TV-on-Pluto-TV.png" group-title="MOVIES/TV SERIES",British TV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=154&deviceId=5b68a18823ecb93393cba2f1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="" group-title="MOVIES/TV SERIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png",HBO Family
 http://185.232.53.5:2086/arellano/kgtL965n2Y/88767?checkedby
 #EXTINF:-1 tvg-id="" group-title="MOVIES/TV SERIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png",HBO
@@ -773,6 +777,10 @@ https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 https://canli.ensonhaber.com/tr/bloomberght/index.m3u8?checkedby
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Cheddar_900x900.png" group-title="News",Cheddar
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/4.m3u8
+#EXTINF:-1 tvg-id="FXB.US" tvg-logo="https://static.epg.best/us/FoxBusiness.us.png" group-title="News",FOX Business
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1 tvg-id="CNW.News" tvg-logo="https://static.epg.best/us/CNBCWorld.us.png" group-title="News",CNBC World
+http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="News" tvg-logo="https://logo-logos.com/wp-content/uploads/2016/10/CNN_logo.png",CNN
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id=" " group-title="News" tvg-logo="https://logo-logos.com/wp-content/uploads/2016/10/CNN_logo.png",CNN backup
