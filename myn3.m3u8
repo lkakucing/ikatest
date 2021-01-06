@@ -1,5 +1,59 @@
 #EXTM3U
 
+#EXTINF:0, [COLOR gold][B](::: RADIO :::)[/B][/COLOR]
+http://50.7.96.210:8285
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IKIM FM"  group-title="Singapore/Malaysia Radio",IKIM FM
+http://50.7.96.210:8285/;stream.mp3
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/era.png" tvg-name="ERA FM"  group-title="Singapore/Malaysia Radio",ERA FM
+http://astro2.rastream.com/era?type=.flv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HOT FM"  group-title="Singapore/Malaysia Radio",HOT FM
+http://2343.live.streamtheworld.com/HOTFMAAC
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HOT FM KELATE"  group-title="Singapore/Malaysia Radio",HOT FM KELATE
+http://2633.live.streamtheworld.com/HOTFMKELATEAAC
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HOT FM T'Ganu"  group-title="Singapore/Malaysia Radio",HOT FM T'Ganu
+http://2173.live.streamtheworld.com/HOTFMTGANUAAC
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SURIA FM"  group-title="Singapore/Malaysia Radio",SURIA FM
+http://starrfm.rastream.com/starrfm-suria?type=.flv&_=0.27098811650648713
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/thr.png" tvg-name="THR GEGAR"  group-title="Singapore/Malaysia Radio",THR GEGAR
+http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SINAR FM"  group-title="Singapore/Malaysia Radio",SINAR FM
+http://astro2.rastream.com/sinar?type=.flv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/xfm.png" tvg-name="XFRESH FM"  group-title="Singapore/Malaysia Radio",XFRESH FM
+http://audri.rastream.com/amp-xfm_audri?type=.flv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bapakku FM"  group-title="Singapore/Malaysia Radio",Bapakku FM
+http://radio.bapakku.fm:8000
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/hitz.png" tvg-name="HITZ FM"  group-title="Singapore/Malaysia Radio",HITZ FM
+http://astro1.rastream.com/hitz?type=.flv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/mix.png" tvg-name="MIX FM"  group-title="Singapore/Malaysia Radio",MIX FM
+http://astro2.rastream.com/mix?type=.flv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FLY FM"  group-title="Singapore/Malaysia Radio",FLY FM
+http://2283.live.streamtheworld.com/FLYFM_SC
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RED FM"  group-title="Singapore/Malaysia Radio",RED FM
+http://starrfm.rastream.com/starrfm-redfm?type=.flv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/lite.png" tvg-name="LITE FM"  group-title="Singapore/Malaysia Radio",LITE FM
+http://astro1.rastream.com/lite?type=.flv
+
+#EXTINF:0, [COLOR yellow][B]____________________________[/B][/COLOR]
+http://dl.nfilm.org/DL/film/Collection-Film/
+
+#EXTINF:0, [COLOR yellow][B]suaji86@gmail.com[/B][/COLOR]
+http://60.49.100.124:8001/1:0:1:59E2:CB:880:3930000:0:0:0:&name=WARNA
+
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/bernama.png" group-title="Singapore/Malaysia Radio",Bernama Radio
 https://raw.githubusercontent.com/lkakucing/ikatest/main/xbernmax.m3u8
 #EXTINF:-1 tvg-logo="http://pwaimg.listenlive.co/BFM_2336851_config_station_logo_image_1554434085.png" group-title="Singapore/Malaysia Radio",BFM
