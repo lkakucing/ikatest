@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,CLOSED-CAPTION=NONE,NAME="1080"
+https://feed.tunein.com/profiles/s14615/nowPlaying?token=eyJwIjpmYWxzZSwidCI6IjIwMjEtMDEtMDZUMDU6MDE6MDUuODE3OTY5NFoifQ&formats=mp3,aac,ogg,flash,html,hls,wma&serial=e7bb0a8d-c102-4678-bd4e-d27b75427dfb&partnerId=RadioTime&version=4.36&itemUrlScheme=secure&reqAttempt=1
