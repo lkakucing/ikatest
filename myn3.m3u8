@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IKIM FM"  group-title="Singapore/Malaysia Radio",IKIM FM
-http://50.7.96.210:8285/;stream.mp3
+http://50.7.96.210:8285/listen.pls
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/era.png" tvg-name="ERA FM"  group-title="Singapore/Malaysia Radio",ERA FM
 http://astro2.rastream.com/era?type=.flv
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HOT FM"  group-title="Singapore/Malaysia Radio",HOT FM
-http://2343.live.streamtheworld.com/HOTFMAAC
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MIX FM"  group-title="Singapore/Malaysia Radio",HOT FM
+http://mediaprima.rastream.com/mediaprima-hotfm.m3u
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HOT FM KELATE"  group-title="Singapore/Malaysia Radio",HOT FM KELATE
 http://2633.live.streamtheworld.com/HOTFMKELATEAAC
@@ -37,7 +37,8 @@ http://astro1.rastream.com/hitz?type=.flv
 http://astro2.rastream.com/mix?type=.flv
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FLY FM"  group-title="Singapore/Malaysia Radio",FLY FM
-http://2283.live.streamtheworld.com/FLYFM_SC
+http://mediaprima.rastream.com/mediaprima-flyfm.m3u
+#http://2283.live.streamtheworld.com/FLYFM_SC
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RED FM"  group-title="Singapore/Malaysia Radio",RED FM
 http://starrfm.rastream.com/starrfm-redfm?type=.flv
@@ -50,7 +51,7 @@ https://raw.githubusercontent.com/lkakucing/ikatest/main/xbernmax.m3u8
 #EXTINF:-1 tvg-logo="http://pwaimg.listenlive.co/BFM_2336851_config_station_logo_image_1554434085.png" group-title="Singapore/Malaysia Radio",BFM
 http://21283.live.streamtheworld.com/BFMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-033&csegid=888&dist=triton-web&tdsdk=js-2.9&banners=none&sbmid=0a2f40ac-36c0-4279-a31e-e335bb55a5e3
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/kool.png" group-title="Singapore/Malaysia Radio",Kool FM Radio
-https://raw.githubusercontent.com/lkakucing/ikatest/main/xkolx.m3u8
+http://mediaprima.rastream.com/mediaprima-koolfm.m3u
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/kool.png" group-title="Singapore/Malaysia Radio",ERA Radio
 https://raw.githubusercontent.com/lkakucing/ikatest/main/exra.m3u8
 
