@@ -281,11 +281,12 @@ http://111.40.205.76/PLTV/88888888/224/3221225657/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9a/KAKU_logo.png" group-title="Kids",卡酷少儿
 http://111.40.205.76/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 tvg-logo="https://res06.bignox.com/noxinfluencer/youtube/avatar/f558e7e6ee376a8b6f1b6b349c6e1922.png" group-title="Kids",Mr Bean
-#https://www.youtube.com/watch?v=PDT1pNKW1jM&list=PLC1EDzqtkrh_Zj67UUTZZmRfrgqwyZNlW
+https://www.youtube.com/watch?v=PDT1pNKW1jM&list=PLC1EDzqtkrh_Zj67UUTZZmRfrgqwyZNlW?type=.flv
 plugin://plugin.video.youtube/play/?video_id=PLC1EDzqtkrh_Zj67UUTZZmRfrgqwyZNlW
 #EXTINF:-1 tvg-logo="https://res06.bignox.com/noxinfluencer/youtube/avatar/f558e7e6ee376a8b6f1b6b349c6e1922.png" group-title="Kids",Mr Bean Real
-plugin://plugin.video.youtube/play/?video_id=PduXbPGBRj0
-#https://www.youtube.com/watch?v=PduXbPGBRj0
+https://www.youtube.com/watch?v=PduXbPGBRj0?type=.flv
+#plugin://plugin.video.youtube/play/?video_id=PduXbPGBRj0
+
 
 #EXTINF:-1 tvg-id=" " group-title="Documentary/Tutor" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/bbc-earth.png",BBC Earth HD
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71119
