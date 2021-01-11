@@ -1,5 +1,46 @@
 #EXTM3U
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="" group-title="Singapore/Malaysia Radio",Hitz2 FM
+http://astro1.rastream.com/hitz?type=mp3
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="" group-title="Singapore/Malaysia Radio",ERA2 FM
+http://astro2.rastream.com/era
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="" group-title="Singapore/Malaysia Radio",Hot2 FM
+http://mediaprima.rastream.com/mediaprima-hotfm.android
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="" group-title="Singapore/Malaysia Radio",Ceria FM
+http://172.83.43.162:8080/stream/;
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="" group-title="Singapore/Malaysia Radio",NAGASWARA FM RADIOTEMEN
+https://live.nagaswarafm.com:9900/stream
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="" group-title="Singapore/Malaysia Radio",Kool FM2
+http://mediaprima.rastream.com/mediaprima-koolfm
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="" group-title="Singapore/Malaysia Radio",Loker Musik Indonesia
+http://live.lokermusik.com:8142/stream
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="" group-title="Singapore/Malaysia Radio",Lite FM
+http://astro1.rastream.com/lite?type=mp3
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="" group-title="Singapore/Malaysia Radio",NAGASWARA POP
+https://live.nagaswarafm.com:9100/stream
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="" group-title="Singapore/Malaysia Radio",NAGASWARA DANCEDHUT
+https://live.nagaswarafm.com:9200/stream
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="" group-title="Singapore/Malaysia Radio",Sinar2 FM
+http://astro2.rastream.com/sinar?type=mp3
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="" group-title="Singapore/Malaysia Radio",Mix2 FM
+http://astro2.rastream.com/mix?type=mp3
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="" group-title="Singapore/Malaysia Radio",Fly2 FM
+http://mediaprima.rastream.com/mediaprima-flyfm
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="" group-title="Singapore/Malaysia Radio",Best2 FM
+http://s8.voscast.com:8686/;stream1524468271750/1
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="" group-title="Singapore/Malaysia Radio",My FM
+http://astro1.rastream.com//myfm?type=mp3
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="" group-title="Singapore/Malaysia Radio",Melody FM
+http://astro3.rastream.com/melody?type=mp3
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="" group-title="Singapore/Malaysia Radio",Cats FM
+http://catsfm64.cspixel.com:7111/stream/;
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="" group-title="Singapore/Malaysia Radio",Siaraya FM
+http://starrfm.rastream.com/starrfm-suria
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="" group-title="Singapore/Malaysia Radio",Ria FM
+https://19183.live.streamtheworld.com/RIA897FMAAC.aac?dist=onlineradiobox
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="" group-title="Singapore/Malaysia Radio",Kristal FM
+http://202.152.73.2:801/kfm
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IKIM FM"  group-title="Singapore/Malaysia Radio",IKIM FM
 http://50.7.96.210:8285/listen.pls
 
@@ -1466,9 +1507,9 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ETLive.png?raw=true" group-title="News & Weather",ET Live Showbiz News
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Cheddar_900x900.png" group-title="News & Weather",Cheddar
-https://melive.chdrstatic.com/cheddar-42620/CheddarOwnedStream/cheddar/primary.m3u8
+https://live.chdrstatic.com/cheddar/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CheddarNews_400x400.png" group-title="News & Weather",Cheddar Big News
-https://melive.chdrstatic.com/cheddar-42620/CheddarOwnedStream/cbn/primary.m3u8
+https://live.chdrstatic.com/cbn/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsMaxTV.png" group-title="News & Weather",Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsNet.png" group-title="News & Weather",News Net (SD)
