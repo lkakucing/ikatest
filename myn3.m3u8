@@ -48,7 +48,7 @@ http://astro3.rastream.com/melody?type=mp3
 http://catsfm64.cspixel.com:7111/stream/;
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://worldradiomap.com/my/images/rtm_klfm.gif" tvg-name="" group-title="Singapore/Malaysia Radio",RTM KL FM
 https://klfmmobile.secureswiftcontent.com/rtm-ch018/rtm-ch018/chunklist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="" group-title="Singapore/Malaysia Radio",RTM Radio Klasik 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/klasik-kuala-lumpur.png" tvg-name="" group-title="Singapore/Malaysia Radio",RTM Radio Klasik 
 https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016-96000.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/bernama.png" group-title="Singapore/Malaysia Radio",Bernama Radio
 https://raw.githubusercontent.com/lkakucing/ikatest/main/xbernmax.m3u8
