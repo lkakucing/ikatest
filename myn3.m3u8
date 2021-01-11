@@ -18,11 +18,11 @@ http://radio.bapakku.fm:8000
 http://astro1.rastream.com/hitz?type=mp3
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/hitz.png" tvg-name="HITZ FM"  group-title="Singapore/Malaysia Radio",HITZ2 FM
 http://astro1.rastream.com/hitz?type=.flv
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/hot.png" tvg-name="" group-title="Singapore/Malaysia Radio",Hot2 FM
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/hot.png" tvg-name="" group-title="Singapore/Malaysia Radio",Hot FM
 http://mediaprima.rastream.com/mediaprima-hotfm.android
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://radio-online.my/assets/image/radio/180/ceria-fm.jpg" tvg-name="" group-title="Singapore/Malaysia Radio",Ceria FM
 http://172.83.43.162:8080/stream/;
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/kool.png" tvg-name="" group-title="Singapore/Malaysia Radio",Kool FM2
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/kool.png" tvg-name="" group-title="Singapore/Malaysia Radio",Kool FM
 http://mediaprima.rastream.com/mediaprima-koolfm
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/lite.png" tvg-name="" group-title="Singapore/Malaysia Radio",Lite FM
 http://astro1.rastream.com/lite?type=mp3
