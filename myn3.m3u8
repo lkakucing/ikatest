@@ -2,6 +2,8 @@
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/suria-fm.png" tvg-name="SURIA FM"  group-title="Singapore/Malaysia Radio",SURIA FM
 http://starrfm.rastream.com/starrfm-suria?type=.flv&_=0.27098811650648713
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/suria-fm.png" tvg-name="" group-title="Singapore/Malaysia Radio",SURIA2 FM
+http://starrfm.rastream.com/starrfm-suria
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/thr-kuala-lumpur.png" tvg-name="THR GEGAR"  group-title="Singapore/Malaysia Radio",THR GEGAR
 http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/era.png" tvg-name="ERA FM"  group-title="Singapore/Malaysia Radio",ERA FM
@@ -38,17 +40,25 @@ http://astro2.rastream.com/mix?type=.flv
 http://mediaprima.rastream.com/mediaprima-flyfm
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://worldradiomap.com/my/images/bestfm.gif" tvg-name="" group-title="Singapore/Malaysia Radio",Best2 FM
 http://s8.voscast.com:8686/;stream1524468271750/1
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://worldradiomap.com/my/images/my.gif" tvg-name="" group-title="Singapore/Malaysia Radio",My FM
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/my-fm.png" tvg-name="" group-title="Singapore/Malaysia Radio",My FM
 http://astro1.rastream.com//myfm?type=mp3
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://worldradiomap.com/my/images/melody.gif" tvg-name="" group-title="Singapore/Malaysia Radio",Melody FM
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/melody.png" tvg-name="" group-title="Singapore/Malaysia Radio",Melody FM
 http://astro3.rastream.com/melody?type=mp3
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/cats-fm.png" tvg-name="" group-title="Singapore/Malaysia Radio",Cats FM
+http://catsfm64.cspixel.com:7111/stream/;
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://worldradiomap.com/my/images/rtm_klfm.gif" tvg-name="" group-title="Singapore/Malaysia Radio",RTM KL FM
+https://klfmmobile.secureswiftcontent.com/rtm-ch018/rtm-ch018/chunklist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="" group-title="Singapore/Malaysia Radio",RTM Radio Klasik 
+https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016-96000.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/bernama.png" group-title="Singapore/Malaysia Radio",Bernama Radio
 https://raw.githubusercontent.com/lkakucing/ikatest/main/xbernmax.m3u8
 #EXTINF:-1 tvg-logo="http://pwaimg.listenlive.co/BFM_2336851_config_station_logo_image_1554434085.png" group-title="Singapore/Malaysia Radio",BFM
 http://21283.live.streamtheworld.com/BFMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-033&csegid=888&dist=triton-web&tdsdk=js-2.9&banners=none&sbmid=0a2f40ac-36c0-4279-a31e-e335bb55a5e3
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="" group-title="Singapore/Malaysia Radio",Ria FM
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/ikim.png" tvg-name="IKIM FM"  group-title="Singapore/Malaysia Radio",IKIM FM
+http://50.7.96.210:8285/listen.pls
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm3klFhMKBhnK5XEg4t5r5pWFFEWm-akPM1w&usqp=CAU" tvg-name="" group-title="Singapore/Malaysia Radio",Ria FM
 https://19183.live.streamtheworld.com/RIA897FMAAC.aac?dist=onlineradiobox
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="" group-title="Singapore/Malaysia Radio",Kristal FM
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.imgbin.com/4/7/5/imgbin-radio-television-brunei-kristal-fm-internet-radio-frequency-modulation-fm-qcfnrN2tGfRxVNzLCvJVGCRHY.jpg" tvg-name="" group-title="Singapore/Malaysia Radio",Kristal FM
 http://202.152.73.2:801/kfm
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="" group-title="Singapore/Malaysia Radio",NAGASWARA POP
 https://live.nagaswarafm.com:9100/stream
@@ -58,13 +68,9 @@ https://live.nagaswarafm.com:9200/stream
 https://live.nagaswarafm.com:9900/stream
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="" group-title="Singapore/Malaysia Radio",Loker Musik Indonesia
 http://live.lokermusik.com:8142/stream
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="" group-title="Singapore/Malaysia Radio",Cats FM
-http://catsfm64.cspixel.com:7111/stream/;
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="" group-title="Singapore/Malaysia Radio",Siaraya FM
-http://starrfm.rastream.com/starrfm-suria
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/ikim.png" tvg-name="IKIM FM"  group-title="Singapore/Malaysia Radio",IKIM FM
-http://50.7.96.210:8285/listen.pls
+
+
 ##EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MIX FM"  group-title="Singapore/Malaysia Radio",HOT2 FM
 http://mediaprima.rastream.com/mediaprima-hotfm.m3u
 
@@ -78,7 +84,6 @@ http://2173.live.streamtheworld.com/HOTFMTGANUAAC
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RED FM"  group-title="Singapore/Malaysia Radio",RED FM
 http://starrfm.rastream.com/starrfm-redfm?type=.flv
-
 
 
 ##EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/kool.png" group-title="Singapore/Malaysia Radio",Kool FM Radio
