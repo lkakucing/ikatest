@@ -1375,7 +1375,7 @@ http://103.16.220.69:1935/golive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://streaming.bandungtv.tv/wp-content/uploads/2019/10/bandungtvstream.png" group-title="Indonesia",Bandung TV
 http://202.150.153.254/bandungtv720p.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Kompas_TV.svg/revision/latest/top-crop/width/220/height/220?cb=20181016124301" group-title="Indonesia",Kompas TV
-https://youtu.be/v0NNW_Z1kmk
+https://www.youtube.com/embed/v0NNW_Z1kmk?rel=0&autoplay=1
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/TVRI.id.png" group-title="Indonesia",TVRI Riau
 https://edge.siar.us/tvririau/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://philippines.mom-rsf.org/uploads/tx_lfrogmom/media/1020-167_import.png" group-title="Pilipinas",INC
