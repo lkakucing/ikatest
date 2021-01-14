@@ -95,8 +95,9 @@ http://2633.live.streamtheworld.com/HOTFMKELATEAAC
 ##EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HOT FM T'Ganu"  group-title="MY/ID/SG Radio",HOT FM T'Ganu
 http://2173.live.streamtheworld.com/HOTFMTGANUAAC
 
-#EXTINF:-1 tvg-id="" tvg-name="KELANTAN FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/kelantan.png" group-title="MALAYSIA",KELANTAN FM
-https://kelantanfm.secureswiftcontent.com/rtm-ch032/rtm-ch032/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KELANTAN FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/kelantan.png" group-title="MY/ID/SG Radio",KELANTAN FM
+https://kelantanfm.secureswiftcontent.com/rtm-ch032/rtm-ch032/media-u9pu3gpqz_87864.aac
+#https://kelantanfm.secureswiftcontent.com/rtm-ch032/rtm-ch032/chunklist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://dbs.radioline.fr/pictures/radio_d46f860e3813a854c0f00cd947434ba2/logo200.jpg" group-title="MY/ID/SG Radio",Red FM
 https://redfmmobile.secureswiftcontent.com/rtm-ch043/rtm-ch043/chunklist.m3u8
