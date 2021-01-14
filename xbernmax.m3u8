@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,CLOSED-CAPTION=NONE,NAME="1080"
-https://bernama.rastream.com/bernama-bernama.web.hls/playlist.m3u8
+https://bernama.rastream.com/bernama-bernama.web.hls/playlist.m3u8?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Abernama-bernama&playerid=BERNAMA%20Radio_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE1NTcwNjUwODEsImV4cCI6MTU1NzE1MTQ4MX0.A50xIlgh-I08-TMDcyYo3ZkzE88w5BoYHkGWfgCuErw
