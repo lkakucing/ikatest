@@ -92,11 +92,8 @@ http://2633.live.streamtheworld.com/HOTFMKELATEAAC
 ##EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HOT FM T'Ganu"  group-title="Singapore/Malaysia Radio",HOT FM T'Ganu
 http://2173.live.streamtheworld.com/HOTFMTGANUAAC
 
-
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RED FM"  group-title="Singapore/Malaysia Radio",RED FM
-http://starrfm.rastream.com/starrfm-redfm?type=.flv
-
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://dbs.radioline.fr/pictures/radio_d46f860e3813a854c0f00cd947434ba2/logo200.jpg" group-title="Singapore/Malaysia Radio",Red FM
+https://www.radioline.co/Pillow/radios/red_93_1/live?type=mp3
 
 ##EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/kool.png" group-title="Singapore/Malaysia Radio",Kool FM Radio
 http://mediaprima.rastream.com/mediaprima-koolfm.m3u
