@@ -10,6 +10,8 @@ http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
 http://astro2.rastream.com/era?type=.flv
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/era.png" tvg-name="" group-title="Singapore/Malaysia Radio",ERA2 FM
 http://astro2.rastream.com/era
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/manis.png" tvg-name="" group-title="Singapore/Malaysia Radio",MANIS FM
+https://hls.rastream.com/husa-manis.web.hls/playlist.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://2.bp.blogspot.com/_qtg-sdY11ww/Ssn1rsfsDEI/AAAAAAAAAC0/9AN1dJLibOs/s320/xfresh.jpg" tvg-name="XFRESH FM"  group-title="Singapore/Malaysia Radio",XFRESH FM
 http://audri.rastream.com/amp-xfm_audri?type=.flv
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/bapakku-fm.png" tvg-name="Bapakku FM"  group-title="Singapore/Malaysia Radio",Bapakku FM
@@ -55,7 +57,17 @@ https://raw.githubusercontent.com/lkakucing/ikatest/main/xbernmax.m3u8
 #EXTINF:-1 tvg-logo="http://pwaimg.listenlive.co/BFM_2336851_config_station_logo_image_1554434085.png" group-title="Singapore/Malaysia Radio",BFM
 http://21283.live.streamtheworld.com/BFMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-033&csegid=888&dist=triton-web&tdsdk=js-2.9&banners=none&sbmid=0a2f40ac-36c0-4279-a31e-e335bb55a5e3
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/ikim.png" tvg-name="IKIM FM"  group-title="Singapore/Malaysia Radio",IKIM FM
-http://50.7.96.210:8285/listen.pls
+http://50.7.96.210:8285/;stream.mp3
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/ikim.png" tvg-name="IKIM FM"  group-title="Singapore/Malaysia Radio",IKIM FM 2
+http://50.7.96.210:8285/;stream.mp3:21
+#EXTINF:-1 tvg-logo="" tvg-logo="http://myklik.rtm.gov.my/img/logo/radio/nasional.jpg" radio="true",NASIONAL FM
+http://turbo.stream.my/live/mp4:rtm-ch011/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s55247q.png" radio="true",MUZIK FM
+http://69.197.60.122:8000/;stream.mp3
+#EXTINF:-1 tvg-logo="" tvg-logo="http://a5.mzstatic.com/us/r30/Purple/v4/7a/07/65/7a076551-6af1-8793-1cae-996c35e014b4/icon175x175.jpeg" radio="true",NASYID FM
+http://radio.nasyidfm.com.my:8000/;stream.mp3
+#EXTINF:-1 tvg-logo="" tvg-logo="http://2.bp.blogspot.com/-YHSGOL1oPI0/UOOnPxK2bHI/AAAAAAAABq0/gknsiNf65Po/s1600/img_kelate_black.png" radio="true",HOT FM KELATE
+http://2633.live.streamtheworld.com/HOTFMKELATEAAC
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm3klFhMKBhnK5XEg4t5r5pWFFEWm-akPM1w&usqp=CAU" tvg-name="" group-title="Singapore/Malaysia Radio",Ria FM
 https://19183.live.streamtheworld.com/RIA897FMAAC.aac?dist=onlineradiobox
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.imgbin.com/4/7/5/imgbin-radio-television-brunei-kristal-fm-internet-radio-frequency-modulation-fm-qcfnrN2tGfRxVNzLCvJVGCRHY.jpg" tvg-name="" group-title="Singapore/Malaysia Radio",Kristal FM
