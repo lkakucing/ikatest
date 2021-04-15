@@ -1,4 +1,1639 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_300.png",Astro Naura
+https://fvtv.mywire.org/playlist/uwn5qna2wm-qywbpjhcrm.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png",Astro Prima
+http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png",Astro Ria
+http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtrBNfTf/Photo-1610035318464.png",Channel 5
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10001&key=84797b799ae18d1b
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtrBNfTf/Photo-1610035318464.png",Channel 8
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10002&key=84797b799ae18d1b
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtrBNfTf/Photo-1610035318464.png",Channel U
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10003&key=84797b799ae18d1b
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtrBNfTf/Photo-1610035318464.png",SURIA
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10004&key=84797b799ae18d1b
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtrBNfTf/Photo-1610035318464.png",Vasantham 
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10005&key=84797b799ae18d1b
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtrBNfTf/Photo-1610035318464.png",OCKO
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.parabola.cz/img_logo/ocko-expres.gif",OCKO EXPRES
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/chunk_ukeaj5au5_ctvideo_cfm4s_ridp0va0br2500000_cs2488779090_mpd.m3u8
+#EXTINF:-1 tvg-logo="https://i.iinfo.cz/images/650/ocko-gold-promo-1.jpg",OCKO GOLD
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/chunk_u5s4j6x2b_ctvideo_cfm4s_ridp0va0br2500000_cs2377075860_mpd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLzDtZMC/9XM.png",9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9F11YPtN/desi-channel.png",DESI Channel
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/HkjTz25S/MTV.png",MTV Asia
+http://iptvtree.net:8080/test-e78555/cf00/171964
+#EXTINF:-1 tvg-logo="hhttps://i.postimg.cc/HkjTz25S/MTV.png",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8PKgbNxd/MTV-BIGGEST.png",MTV BIGGEST POP
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/K81SqCy6/MTV-CLUB.png",MTV club
+https://nonton.site:8443/novi/novi123/288
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/SsyTYFfh/logo-mtvlive-big.png",MTV LIVE HD
+https://fikrulmkc.my.id/bagus/usee-mtvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B1YMJuYxBAw/maxresdefault.jpg",Afro beats
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNIFMrl.png",BOX HITS
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtrBNfTf/Photo-1610035318464.png",MUSIC 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtrBNfTf/Photo-1610035318464.png",Nago MUSIC
+http://haititivi.com:8088/haititv/tele6NY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqRLgK1J/ASTRO-AEC.png",Astro AEC
+http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tg54KZcw/1591197830869.png",Astro AWANI
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream01/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VsrrkbfM/ASTRO-CERIA.png",Astro CERIA
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nL0nR8jt/1591197756282.png",Astro OASIS
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJcxSg7q/1591197763147.png",Astro PRIMA
+http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZ6tZ9rG/1591197779083.png",Astro RIA
+http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvw3mycL/1591197786349.png",Astro WARNA
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PJs7CFf/1591197801032.png",Drama Sangat
+https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/DramaSangat.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnDGV4Bd/HELLO.png",Hello
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_02.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2Sn6xX7z/1591197821118.png",OKEY
+https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.m3u8000
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhWtG1Y7/1591197814797.png",TV Ikim
+http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvcjJwjh/1591197792932.png",RTB
+https://rtb-channel.glue.live/smil:rtb1/chunklist_w580207437_b2736000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/h4wtRqCD/1591197712014.png",RTM Berita
+https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr6F4vsj/1591197703800.png",RTM Sports
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b864000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHk4Hq0c/1591197858382.png",TV1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b864000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5SStq05/1591197846160.png",TV2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b864000.m3u8
+#EXTINF:-1 tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png",TV1
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+#EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png",TV2
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png",TV2 Backup
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/index.m3u8
+
+#EXTINF:-6 xmltv-id="tv3" tvg-id="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
+http://live8.cdn.iptv8k.org:80/review_stream/tv3kbmm21/i.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
+https://fvtv2.mywire.org/streams/dailymotion/ch_tv3.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1  tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/147.png",NTV7
+https://fvtv2.mywire.org/streams/dailymotion/ch_ntv7.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV
+https://fvtv2.mywire.org/streams/dailymotion/ch_8tv.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png",TV9
+https://fvtv2.mywire.org/streams/dailymotion/ch_tv9.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat
+https://fvtv2.mywire.org/streams/dailymotion/ch_ds.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png",OKEY
+https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png",NAURA
+https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428052_ico.png",HELLO
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+
+#EXTINF:-1 tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png",AWANI
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",TVS
+https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw",Astro Go Shop
+https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png",Astro Vaanavil
+https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Vaanavil_(s20).png", Vaanavil
+https://raw.githubusercontent.com/raizoML/new/main/freeview/9.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.goshop.com.my/static/icons/favicon.ico", ASTRO GO SHOP RUUMA
+https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvsarawak.com/wp-content/uploads/2018/12/tvslogo222new.png",TVSarawak
+https://raw.githubusercontent.com/raizoML/new/main/freeview/8.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png",Astro Prima
+http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png",Astro Ria
+http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",Astro Boo
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvthai.my.to/logo/Astro-Citra-HD.png?rev=8",Astro Citra
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png", ASTRO BOO HD
+https://nonton.site:8443/novi/novi123/38714
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png", Astro Citra HD
+https://nonton.site:8443/novi/novi123/38706
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Astro_Oasis_2019.png/revision/latest/scale-to-width-down/200?cb=20190111152636", Astro Oasis
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/306_300.png",Astro AEC
+http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvthai.my.to/logo/Astro_Ria_HD.png?rev=8",Astro Ria Backup
+http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvthai.my.to/logo/Astro_Prima_HD.png?rev=8",Astro Prima Backup
+http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvthai.my.to/logo/Astro_Ceria_HD.png?rev=8",Astro Ceria Backup
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.javuxx.com/wp-content/uploads/2021/01/IPX-596.jpg", IPX-596 Karen Kaede
+https://server2.camhdxx.com/35124/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.javxxx99.com/wp-content/uploads/2020/06/IPX-466.jpg",IPX-466Karen Kaede
+https://server1.camhdxx.com/5ebf211ab8c3db6fbda37da6/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.javuxx.com/wp-content/uploads/2020/10/ipx-528.jpg",IPX-528 Karen Kaede
+https://javopen.co/video/uncensored-ipx-528-karen-kaede/?tape=2
+
+#EXTINF:-1, tvg-logo="https://cdn.jav.la/uploads/ipx00278.jpg",IPX-278 แอ่นทีเดียว เสียวทั้งโรงบาล
+https://cnew.octopusbanner.com/src/hls/IPX-278_176365_05-05-21pm_2021-01-07_hls.m3u8/IPX-278_176365_05-05-21pm_2021-01-07_hls.m3u8
+
+#EXTINF:-1, tvg-logo="https://cdn.jav.la/uploads/ipx-248.jpg",IPX-248 Karen Kaede
+https://freejavhub.com/avญี่ปุ่น-karen-kaede-ipx-248/
+
+#EXTINF:-1, tvg-logo="https://www.av-th.net/wp-content/uploads/2020/12/ipx534pl-360x203.jpg",IPX-534 Karen Kaede
+https://cdn4.cdn9x.com/3lejpaq/1080p.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/ipx-497.jpg",IPX-497 BEAUTY VENUS VII Karen Kaede
+https://server5.camhdxx.com/5f0a4c8f86d9eae4de550aa6/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://javfehd.com/wp-content/uploads/2020/09/IPX-515-400x269.jpg", ipx-515 Karen Kaede
+https://javkub.com/ipx-515/
+
+#EXTINF:-1, tvg-logo="https://javcl.com/wp-content/uploads/2021/02/escape-dating-of-students-and-beautiful-female-tea-340x439.jpg",Karen Kaede IPX-612
+https://s24.camhdxx.com/39526/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.javuxx.com/wp-content/uploads/2020/12/IPX-235-FIRST-IMPRESSION-130-Pure-Beauty.jpg", IPX-235 Karen Kaede
+https://cdn2.cdn9x.com/pa92erbo/1080p.m3u8
+
+#EXTINF:-1, tvg-logo="https://i0.wp.com/avsub69.com/wp-content/uploads/2020/09/ss01441-8.png?resize=300,170&ssl=1",karen kaede IPX-528
+https://c19.vidlox.me/hls/oudvhsaexztk2yixv52oscralbb5oqsamh25jathyrrliixun624eqhn2b6a/index-v1-a1.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/ipx-580-4k-h264.jpg", IPX-580 Karen Kaede
+https://s27.camhdxx.com/41528/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://sextop.net/wp-content/uploads/2019/05/sextop.net-ipx-305-instant-orgasms-her-body-learns-to-convulse-in-ecstasy-karen-kaede-i-never-knew-what-a-real-orgasm-felt-like-until-now-686x481.jpg",ipx-305 Karen Kaede
+https://freejavhub.com/ipx-305-karen-kaede-av/
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/ipx-564.jpg",ipx-564 Karen Kaede
+https://server4.camhdxx.com/5fb4de90b2e46d7db841455a/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/39479.jpg",FC2PPV-1681410
+https://s9.camhdxx.com/39479/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/ipx-451.jpg",ipx-451 Karen Kaede
+https://bob.lnw-stream.com/s3/ZbQiyrOH33rA8OQp7wrg2w/1614864171/hls/ipx-451.mp4.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/ipx-484.jpg",IPX-484Karen Kaede
+https://server2.camhdxx.com/5ebbb8d34bd2b889477c9a03/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://javfehd.com/wp-content/uploads/2020/10/CAWD-120-400x269.jpg",Fukada Eimi
+https://javfehd.com/cawd-120/
+
+#EXTINF:-1, tvg-logo="https://javfehd.com/wp-content/uploads/2020/08/JUL-246-400x269.jpg",JUL-246 Houjou Maki
+https://tivpx149.javsekai.com/hls/stream/720P_2800K/2800000/7277/7277.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/jul-216.jpg",JUL-216 Houjou Maki
+https://server5.camhdxx.com/5ebbc43a4bd2b889477c9b79/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/jul-434.jpg",JUL-434 I'm Such An Aunt
+https://server1.camhdxx.com/5ff0604754827f38dce7d890/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/jul-196.jpg",JUL-196 Mother's Friend Maki Hojo
+https://server5.camhdxx.com/5ebf21d6b8c3db6fbda37dbe/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/39767.jpg",Kin8tengoku 3359 Lily Labeau
+https://s21.camhdxx.com/39767/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/39631.jpg",FC2PPV-1683384
+https://s17.camhdxx.com/39631/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/39626.jpg",FC2PPV-1681954
+https://s13.camhdxx.com/39626/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/k0817.jpg",K0817
+https://server5.camhdxx.com/5ebb9d5918ba532f66423ab1/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/fc2ppv-1321319.jpg",FC2PPV-1321319 (Censored)
+https://server5.camhdxx.com/5ebbe19fb8c3db6fbda300d7/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/fc2ppv-1386334.jpg",FC2PPV-1386334 (Censored)
+https://server5.camhdxx.com/5ed24ae2d083afd9fb052dfc/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/fc2ppv-1522091.jpg",FC2PPV-1522091
+https://server3.camhdxx.com/5f7c5c7681bbd733c66f50e2/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/fc2ppv-1581860.jpg",FC2PPV-1581860
+https://server3.camhdxx.com/5fbfa733f8f0a8314774af7f/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/39625.jpg",FC2PPV-1678932
+https://s3.camhdxx.com/39625/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/39622.jpg",FC2PPV-1661270
+https://s22.camhdxx.com/39622/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/nukimax029.jpg",NUKIMAX029
+https://server5.camhdxx.com/5ebb879618ba532f66423755/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/heyzo-hd-2425.jpg",HEYZO 2425 Enami Ryuu
+https://server1.camhdxx.com/5fe8a2b09c5f79268773bcd3/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/37825.jpg",HEYZO 2457 Suzumiya
+https://server1.camhdxx.com/37825/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/39478.jpg",FC2PPV-1681070
+https://s8.camhdxx.com/39478/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/mywife-1623.jpg",Mywife-1623 No.1017
+https://server5.camhdxx.com/5ebba33c18ba532f66423b8e/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/38881.jpg",FC2PPV-1639386
+https://s16.camhdxx.com/38881/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/8327.jpg",SIRO-4112
+https://server2.camhdxx.com/8327/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/39258.jpg",Carib 021021-001 Kichikawa Ren
+https://s27.camhdxx.com/39258/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/39092.jpg",SSNI-987
+https://s3.camhdxx.com/39092/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/39604.jpg",SQTE-358 Black-haired Beautiful Girl
+https://s6.camhdxx.com/39604/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/jul-219.jpg",JUL-219 Shower Room
+https://server5.camhdxx.com/5ebbc4244bd2b889477c9b76/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/nyh-058.jpg",NYH-058
+https://server4.camhdxx.com/5fb65e4ae54c9c330c4fe5ea/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/300maan-611.jpg",300MAAN-611
+https://server2.camhdxx.com/5fdf8399962d7b6e10314158/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/355opcyn-139.jpg",355OPCYN-139 Natsu
+https://server1.camhdxx.com/5ff48d6e07b9c2f5a84d2f2c/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/355opcyn-141.jpg",355OPCYN-141 Rin 2
+https://server1.camhdxx.com/5ff5c29f0b923b0423567279/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/355opcyn-136.jpg",355OPCYN-136 Ema
+https://server1.camhdxx.com/5ff1b236f148678743443096/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/355opcyn-129.jpg",355OPCYN-129 Nana 2
+https://server1.camhdxx.com/5fd7620c183552cfcd0bced1/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/s-cute-815-nana-01.jpg",S-Cute 815_nana_01
+https://server1.camhdxx.com/5fde31bf5db452bf570fc654/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/17356.jpg",300MAAN-556
+https://server1.camhdxx.com/17356/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/s-cute-799-kanon-04.jpg",S-Cute 799_kanon_04
+https://server4.camhdxx.com/5fc7ba18186e4e0d09e92972/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/38639.jpg",336KNB-140
+https://server4.camhdxx.com/5fc7ba18186e4e0d09e92972/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/35699.jpg",336KNB-137
+https://server1.camhdxx.com/35699/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/35206.jpg",279UTSU-477
+https://server1.camhdxx.com/35206/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/siro-4326.jpg",SIRO-4326
+https://server4.camhdxx.com/5fc668e568c7b06b52648377/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/34957.jpg",355OPCYN-144 Amu
+https://server1.camhdxx.com/34957/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/300mium-635.jpg",300MIUM-635
+https://server4.camhdxx.com/5fb4eff1b2e46d7db8414a96/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/300ntk-487.jpg",300NTK-487
+https://server2.camhdxx.com/5fe20a15c0bb8d9756954b6e/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/38883.jpg",FC2PPV-1667679
+https://s20.camhdxx.com/38883/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/38858.jpg",FC2PPV-1673195
+https://s24.camhdxx.com/38858/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.av-th.net/wp-content/uploads/2020/03/atid335pl-360x203.jpg",Iroha Natsume ชู้รักเรือจ้างกางใบโลด ATID-335
+https://cdn2.cdn9x.com/2asqb6od/1080p.m3u8
+
+#EXTINF:-1, tvg-logo="https://avsubthai.me/wp-content/uploads/2019/11/shkd875pl.jpg",Iroha Natsume SHKD-875 อ่อยไม่หยุด ขอสุดที่หรรม
+https://cdn2.cdn9x.com/4eojc3hu/1080p.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.av-th.net/wp-content/uploads/2020/03/rbd932pl-360x203.jpg",Iroha Natsume ออฟชั่นพุ่งพรวดหนูนวดปิดหนี้ RBD-932
+https://cdn1.cdn9x.com/naga3n55/1080p.m3u8
+
+#EXTINF:-1, tvg-logo="https://avsubthai.me/wp-content/uploads/2019/08/rbd722pl.jpg",Iroha Natsume RBD-722 ปลายทางของเธอบำเรอท่านชาย
+https://cdn3.cdn9x.com/vb0lbkdj/1080p.m3u8
+
+#EXTINF:-1, tvg-logo="https://avsubthai.me/wp-content/uploads/2019/07/rbd632pl.jpg",Iroha Natsume RBD-632 วิบากกาม ทนายสาว
+https://cdn3.cdn9x.com/ulra0t25/1080p.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.javuxx.com/wp-content/uploads/2020/03/shkd875pl-768x516.jpg",Iroha Natsume อ่อยไม่หยุดขอสุดที่หรรม SHKD-875
+https://server3.jav-tha.ml/hls/0l3EkVy/file_1080.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.av-th.net/wp-content/uploads/2020/03/atid333pl-360x203.jpg",Iroha Natsume พฤหัสบดีที่รอค..ย ATID-333
+https://c20.vidlox.me/hls/oudvghpvxrtk2yixv5o6sczkkyyzskyqugu36diy3lsfoqmz2q7em54ekxza/index-v1-a1.m3u8
+
+#EXTINF:-1, tvg-logo="https://i0.wp.com/avsub69.com/wp-content/uploads/2020/08/ss07201-27.png?resize=300,169&ssl=1",Iroha Natsume เพื่อนร่วมงานสุดรัก ATID-308
+https://c20.vidlox.me/hls/oudvga46qjtk2yixv636scj6k4x44nk6uadyiqsskyi3fo3pqkmvcymhupna/index-v1-a1.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.javuxx.com/wp-content/uploads/2020/12/BKD-163.jpg",BKD-163 ซับไทย Chitose Hara
+https://www.javuxx.com/bkd-163-subthai/
+
+#EXTINF:-1, tvg-logo="https://www.javuxx.com/wp-content/uploads/2020/12/ADN-049.jpg",ADN-049
+https://www.javuxx.com/adn-049-subthai/
+
+#EXTINF:-1, tvg-logo="https://www.javuxx.com/wp-content/uploads/2020/11/SNIS-910.jpg",SNIS-910 หนัง AV ซับไทย Aoi
+https://www.javuxx.com/snis-910-subthai/
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/38220.jpg",SIRO-4407
+https://fc2ppv.tv/siro-4407
+
+#EXTINF:-1, tvg-logo="https://www.javuxx.com/wp-content/uploads/2020/02/eyan001pl.jpg",EYAN-001 Mami Sawajiri
+https://www.javuxx.com/eyan-001-av/
+
+#EXTINF:-1, tvg-logo="https://www.javuxx.com/wp-content/uploads/2021/02/ssni-984.jpg",SSNI-984 หลอกมาทำความสะอาดแล้วจับทำเมีย Tsubaki Sannomiya
+https://www.javuxx.com/ssni-984/
+
+#EXTINF:-1, tvg-logo="https://www.javuxx.com/wp-content/uploads/2021/02/SHKD-929.jpg",SHKD-929 นักเรียนหื่น หลอกเย็ดครูสาวจนติดใจ Minori Hatsune
+https://www.javuxx.com/shkd-929/
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/39509.jpg",SIRO-4422
+https://fc2ppv.tv/siro-4422
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/39359.jpg",SIRO-4417
+https://s29.camhdxx.com/39359/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/38104.jpg",SIRO-4391
+https://server1.camhdxx.com/38104/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/siro-4139.jpg",SIRO-4139
+https://server5.camhdxx.com/5ebb9f5918ba532f66423b02/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/35734.jpg",S-Cute 824_sena_01
+https://server1.camhdxx.com/35734/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/39786.jpg",S-Cute 821_aoi_02
+https://s22.camhdxx.com/39786/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/37576.jpg",S-Cute tat_070
+https://server2.camhdxx.com/37576/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/39502.jpg",S-Cute 827_rei_01
+https://s10.camhdxx.com/39502/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/300ntk-469.jpg",300NTK-469
+https://server1.camhdxx.com/5fd25d9836fa491f20777354/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/37404.jpg",S-Cute pok_006
+https://server1.camhdxx.com/37404/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/40366.jpg",SIRO-4433
+https://s20.camhdxx.com/40366/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/s-cute-731-kanon-08.jpg",S-Cute 731_kanon_08
+https://server2.camhdxx.com/5ff1b227f148678743443094/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/34977.jpg",SIRO-4387
+https://server2.camhdxx.com/34977/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/s-cute-813-ami-01.jpg",S-Cute 813_ami_01
+https://server2.camhdxx.com/5fd761fb183552cfcd0bcecf/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/s-cute-807-nico-02.jpg",S-Cute 807_nico_02
+https://server2.camhdxx.com/5fd351a71d89890f37cdbcfe/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/s-cute-812-eve-01.jpg",S-Cute 812_eve_01
+https://server2.camhdxx.com/5fccc838e190df33ffa8cfe3/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/40130.jpg",359TYVM-132 Itsuki
+https://s9.camhdxx.com/40130/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/40129.jpg",359TYVM-131 Misa
+https://s11.camhdxx.com/40129/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/s-cute-731-kanon-07.jpg",S-Cute 731_kanon_07
+https://server4.camhdxx.com/5fb4e67eb2e46d7db84148cf/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/259luxu-1317.jpg",259LUXU-1317
+https://server5.camhdxx.com/5f6601cd402dd363c5325c0f/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/39927.jpg",345SIMM-608
+https://s20.camhdxx.com/39927/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/siro-4208.jpg",SIRO-4208
+https://server5.camhdxx.com/5f0ef7d00202e4f05702c9ef/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/39785.jpg",OREC-692 Mio
+https://s17.camhdxx.com/39785/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/s-cute-784-rin-01.jpg",S-Cute 784_rin_01
+https://server5.camhdxx.com/5f12e4194bb4ec4f8be52231/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/435mfc-036.jpg",435MFC-036
+https://server5.camhdxx.com/5f522d77d29ef8d35cf66478/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/40553.jpg",FC2PPV-1687749
+https://s24.camhdxx.com/40553/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/fc2ppv-1407937.jpg",FC2PPV-1407937
+https://server5.camhdxx.com/5eee0d0eb351d346535da53c/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.av-th.net/wp-content/uploads/2021/02/adn271pl.jpg",Himari Hanazawa โตขึ้นเป็นกองหมายปองหลั่งใน ADN-271
+https://server4.jav-tha.ml/hls/5SvlDsV/file_1080.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.av-th.net/wp-content/uploads/2020/06/765-kyu-006-1-60x90.jpg",ThaiGirlsWild – Kyu [คิว]
+https://server2.jav-tha.ml/hls/JSS4HRj/file_1080.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.av-th.net/wp-content/uploads/2020/06/Nate-01-Room-Service-maid-uniform-for-hardcore-amateur-Fuck-2-60x90.jpg",TukTukPatrol – Nate 3 [นัทตี้]
+https://server2.jav-tha.ml/hls/KYcjErC/file_1080.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.av-th.net/wp-content/uploads/2020/09/nate_066-360x203.jpg",TukTukPatrol – Nate [นัทตี้]
+https://server4.jav-tha.ml/hls/Ncc15sn/file_1080.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/40716.jpg",FC2PPV-1694980
+https://s17.camhdxx.com/40716/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/37419.jpg",SIRO-4404
+https://server2.camhdxx.com/37419/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/36590.jpg",SIRO-4400
+https://server2.camhdxx.com/36590/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/35422.jpg",HEYZO 2434 Aizawa Rin
+https://server1.camhdxx.com/35422/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/hoi-131.jpg",hoi-131 Sara
+https://server3.camhdxx.com/5f7241c1735049b46b283581/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/hoi-127.jpg",hoi-127 Otoha
+https://server5.camhdxx.com/5f62010a14334040d555cc08/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/hoi-091.jpg",hoi-091 Alice
+https://server5.camhdxx.com/5ebbae5418ba532f66423d26/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/40009.jpg",417SRCN-040
+https://server4.camhdxx.com/5fb4eefbb2e46d7db8414a71/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/hoi-097.jpg",hoi-097 ONA
+https://server5.camhdxx.com/5ebb9fb118ba532f66423b0f/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/zooo-001.jpg",ZOOO-001 A Collection Of Sex Videos
+https://server5.camhdxx.com/5f19685a187b5948b4610470/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/zooo-015.jpg",ZOOO-015 20 Ladies With Exquisite Bodies 2
+https://server1.camhdxx.com/5fe5f08cf79af2ff948e6c15/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/zooo-008.jpg",ZOOO-008 MILF's Hot Smothering Kisses
+https://server3.camhdxx.com/5f75c6f5511562c760e695d6/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/zooo-005.jpg",ZOOO-005 20 Exquisite Bodies
+https://server3.camhdxx.com/5f746751ae0542df16958224/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/n1045.jpg",N1045
+https://server4.camhdxx.com/5ee376498d03dab9dc115f54/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/siro-4356.jpg",SIRO-4356
+https://server3.camhdxx.com/5fc5177608b28c3c73c2c2e9/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/siro-4331.jpg",SIRO-4331
+https://server4.camhdxx.com/5fc25866fe7d039992193ffd/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/siro-4323.jpg",SIRO-4323
+https://server4.camhdxx.com/5fb7e880d3bf28f82746dc65/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/36086.jpg",SIRO-4398
+https://server1.camhdxx.com/36086/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/s-cute-if-013-02.jpg",S-Cute if_013_02
+https://server5.camhdxx.com/5ebba34118ba532f66423b8f/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/srt-026.jpg",srt-026 Narumi-chan
+https://server2.camhdxx.com/5fe7340efa54ffdf43960ab5/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/orec-405.jpg",OREC-405 Miss Kudou
+https://server5.camhdxx.com/5ebb9fee18ba532f66423b18/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/230orec-509.jpg",OREC-509 Nagi
+https://server5.camhdxx.com/5ebbaa6918ba532f66423c94/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/ssni-900.jpg",SSNI-900 Intersecting Body Fluids
+https://server4.camhdxx.com/5f8d81d5e9d3d0b489fee46b/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/jul-217.jpg",JUL-217 After Having Sex With My Husband
+https://server5.camhdxx.com/5ebbc4324bd2b889477c9b78/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/2014.jpg",PPPD-273 JULIA Soap Out The Finest In Big Jcup
+https://server2.camhdxx.com/2014/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/sdmt-921.jpg",SDMT-921 Julia's First True Cum Ashina
+https://server5.camhdxx.com/5ec1a6c834eee714188b473c/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/mxgs-1165.jpg",MXGS-1165 Among Issues Sex Aya Shiomi
+https://server2.camhdxx.com/5fdb565f304774fb1fe2c83a/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/jul-186.jpg",JUL-186 I Can't Tell My Wife If My Mouth Is Torn
+https://server5.camhdxx.com/5ebf2da0b8c3db6fbda37f25/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/jul-230.jpg",JUL-230 Madonna
+https://server5.camhdxx.com/5eca5623792fda5a5c8b34b2/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/39215.jpg",SNIS-839 Tomorrow Flower Killala To Still Cum
+https://s12.camhdxx.com/39215/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/snis-254.jpg",SNIS-254 Flower Killala Tomorrow To Try To Etch Out
+https://server5.camhdxx.com/5ebf24fcb8c3db6fbda37e17/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/230orec-507.jpg",OREC-507 Mizuki 3
+https://server5.camhdxx.com/5ebbab3418ba532f66423cb1/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/3820.jpg",OREC-514 Tsubasa
+https://server1.camhdxx.com/3820/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/200gana-2381.jpg",200GANA-2381
+https://server4.camhdxx.com/5fb4df86b2e46d7db84145a2/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/38050.jpg",OREC-678 Natsume
+https://server2.camhdxx.com/38050/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/siro-4192.jpg",SIRO-4192
+https://server5.camhdxx.com/5eff0ac39b2e829b663958aa/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/mide-173.jpg",MIDE-173 JULIA Married Woman Who Lost Us
+https://server5.camhdxx.com/5ebfdea4d2e0b4aee6b95eee/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/jul-164.jpg",JUL-164 Immoral Bunk Bed Adhesion Stepmom Incest Tsubaki Amano
+https://server5.camhdxx.com/5ebfe2e3d2e0b4aee6b95f79/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/jul-157.jpg",JUL-157 After Having Sex
+https://server5.camhdxx.com/5ebfe5fbd2e0b4aee6b95fdd/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/36815.jpg",JUL-445 Cuckold Hot Spring Trip
+https://server1.camhdxx.com/36815/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/hhf-006.jpg",HHF-006 Hunter “I’m An Aunt But…”
+https://server5.camhdxx.com/5ee8c8dfeb3f104dc8160fff/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/36607.jpg",AKID-080 Female College Student Only After Drinking Party
+https://server1.camhdxx.com/36607/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/oksn-300.jpg",OKSN-300 Enjoyable Sex Obscene Big Breasts
+https://server5.camhdxx.com/5f634f59b5de11fb66285918/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/jul-155.jpg",JUL-155 On The Seventh Day Of Being Committed
+https://server5.camhdxx.com/5ebfe7e1d2e0b4aee6b9601a/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/jul-186.jpg",JUL-186 I Can't Tell My Wife If My Mouth Is Torn
+https://server5.camhdxx.com/5ebf2da0b8c3db6fbda37f25/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/siro-4183.jpg",SIRO-4183
+https://server5.camhdxx.com/5eecae5538badccb1520d8f7/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/siro-4101.jpg",SIRO-4101
+https://server5.camhdxx.com/5ebbb43e18ba532f66423dff/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/36512.jpg",HUNTA-936 "No! That Angle Is Dangerous!
+https://server1.camhdxx.com/36512/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/36055.jpg",HUNTA-931 "You Have To Peel Off The Skin And Wash It Properly!
+https://server2.camhdxx.com/36055/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/pppd-361.jpg",PPPD-361 Does Not End Until You Out Every Day During
+https://server5.camhdxx.com/5eecad211667bbb799c240b9/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/gomu-026.jpg",GOMU-26 Center Village When You Grow Up
+https://server2.camhdxx.com/5fef00b9fd82f3342c893182/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/jul-265.jpg",JUL-265 The Last Train… Is Gone…
+https://server5.camhdxx.com/5f163425fde43acb0d75537e/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/jul-342.jpg",JUL-342 On The 7th Day After Being Fucked
+https://server3.camhdxx.com/5f7afeb681495ec0510f08f3/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/369fctd-041.jpg",369FCTD-041 Julia-san 2
+https://server4.camhdxx.com/5ebda0d5b8c3db6fbda349c0/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/hunta-046.jpg",HUNTA-046 School Excursion Students And Rainy Day
+https://server4.camhdxx.com/5fb4e534b2e46d7db841485c/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/dvdms-509.jpg",DVDMS-509 Appearance MM Issue Beautiful
+https://server5.camhdxx.com/5ebfe57cd2e0b4aee6b95fcd/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/5574.jpg",OREC-496 Mari
+https://server1.camhdxx.com/5574/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/jul-373.jpg",JUL-373 I Can't Be A Dreaming Mature Woman Akika Sezuki 40 Years Old AV Debut!
+https://server4.camhdxx.com/5fba36b95ac174790bd8bbee/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/jul-374.jpg",JUL-374 Former International Cabin Attendant Madonna Exclusive 3rd!
+https://server4.camhdxx.com/5fba36bd5ac174790bd8bbef/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/hunta-865.jpg",HUNTA-865 "Yareru Note"
+https://server3.camhdxx.com/5f7c5e1e81bbd733c66f513e/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/230orec-474.jpg",OREC-474 Sakura
+https://server5.camhdxx.com/5ebbbaa018ba532f66423eef/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/230orec-570.jpg",OREC-570 Runa
+https://server5.camhdxx.com/5f3e8a7d9256a4c395f88223/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/230orec-571.jpg",OREC-571 Rika
+https://server5.camhdxx.com/5f60bc436b45a3c7a878af95/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://img.bestjavporn.net/wp-content/uploads/2021/01/rbd00576pl.jpg",RBD-576 japanese free porn
+https://www6.sbvideocdn.com/hls/tysxeppf2666j6cdaarrrwyfov22le5agzxo677izhmcjqgdmhshwlpdegwa/index-v1-a1.m3u8
+
+#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81mwYPr0xaL._AC_SL1500_.jpg",[WAAA-034] If You Can Withstand Ai Sayama’s
+https://pr1.sbvideocdn.com/hls/tysxej336266j6cdac4bxx2boc5kh4kmtjdjabayjoq5jv3kjbgi2xoob6nq/index-v1-a1.m3u8
+
+#EXTINF:-1, tvg-logo="https://avsubthai.me/wp-content/uploads/2021/01/atid429pl.jpg",ATID-429 อ้างว้างห้าปี แถมฟรีห้าดอก
+https://cdn4.cdn9x.com/3ksdatqr/1080p.m3u8
+
+#EXTINF:-1, tvg-logo="https://avsubthai.me/wp-content/uploads/2021/02/juy484pl.jpg",JUY-484 ระทึกน่าดูเป็นชู้เผาขน
+https://cdn1.cdn9x.com/kkh0s5gv/1080p.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/41474.jpg",300NTK-527
+https://s26.camhdxx.com/41474/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/41455.jpg",FC2PPV-1702963
+https://s28.camhdxx.com/41455/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/41476.jpg",200GANA-2448
+https://s10.camhdxx.com/41476/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/41270.jpg",200GANA-2438
+https://s2.camhdxx.com/41270/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/200gana-2407.jpg",200GANA-2407
+https://server1.camhdxx.com/5ff5c2cc0b923b042356727f/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/39361.jpg",200GANA-2433
+https://s13.camhdxx.com/39361/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/15325.jpg",S-Cute tat_060
+https://server1.camhdxx.com/15325/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/230oretd-762.jpg",ORETD-762 Sena-chan
+https://server3.camhdxx.com/5f746682ae0542df169581ed/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/41154.jpg",402MNTJ-045 Natsuki
+https://s18.camhdxx.com/41154/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/garea-733mio.jpg",GAREA-733MIO
+https://server4.camhdxx.com/5ebda1cdb8c3db6fbda349e5/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/siro-4292.jpg",SIRO-4292
+https://server4.camhdxx.com/5f7f545c0eb51102fdd2c973/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/38903.jpg",ion-076 Ai
+https://s26.camhdxx.com/38903/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/41458.jpg",OREC-699 Suzune
+https://s9.camhdxx.com/41458/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/40134.jpg",402MNTJ-044 Emily
+https://s12.camhdxx.com/40134/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/200gana-2363.jpg",200GANA-2363
+https://server3.camhdxx.com/5f7d928fea34f928b03ac9b9/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://pornimg.xyz/2021/0109/ipx589pl.jpg",IPX-589 FIRST IMPRESSION 147 8 Head And Body Real Gravure AV Debut Lifted! !! Shiramine Miu
+https://s29.camhdxx.com/41536/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://pornimg.xyz/2021/0212/ipx605pl.jpg",IPX-605 5 Inexperienced Play Genuine Gravure Idol Exclusive 2nd Shiramine Miu
+https://s8.camhdxx.com/39382/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/41731.jpg",HEYZO 2471 Enami Ryuu Orgasms With A Horny Pussy Girl Vol.14
+https://s28.camhdxx.com/41731/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/41438.jpg",Carib 081511-779 Hasegawa Kanon Wives Trying to Pick up 2 Part3
+https://s29.camhdxx.com/41438/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/41398.jpg",1pon 081311_155 Houjou Maki
+https://s3.camhdxx.com/41398/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/heyzo-hd-2394.jpg",HEYZO 2394 Ogata Chino Naked Housewife’s Lewd Private Life Vol.3
+https://server4.camhdxx.com/5fb4e1c6b2e46d7db84146c0/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/080220-001-carib.jpg",Carib 080220-001 Meirin Naked House Wife : Shanghai Mixed Lady Is Always Horney
+https://server5.camhdxx.com/5f26ba609eb39748469dde82/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/fc2ppv-1302876.jpg",FC2PPV-1302876 (Censored)
+https://server5.camhdxx.com/5ebbe53ab8c3db6fbda3015a/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/41098.jpg",FC2PPV-1696503
+https://s10.camhdxx.com/41098/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/41931.jpg",S-Cute 829_hinako_01 脱ぐほど卑猥な清楚娘のSEX／Hinako
+https://s15.camhdxx.com/41931/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/s-cute-785-non-03.jpg",S-Cute 785_non_03
+https://server5.camhdxx.com/5f60bdce5a5a629b97cba240/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/s-cute-pok-004.jpg",S-Cute pok_004
+https://server5.camhdxx.com/5f6204c414334040d555cc0f/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/s-cute-383-miki-hw.jpg",S-Cute 383_miki
+https://server5.camhdxx.com/5f104dc15ce722fe2edb88a7/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/441yrtb-001.jpg",441YRTB-001 カホ
+https://server5.camhdxx.com/5ec1926934eee714188b43cd/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/38407.jpg",SIRO-4377 SIRO-4377
+https://s12.camhdxx.com/38407/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/siro-4212.jpg",SIRO-4212 SIRO-4212
+https://server5.camhdxx.com/5f19639a2e959008caa6e770/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/s-cute-780-erina-03.jpg",S-Cute 780_erina_03
+https://server5.camhdxx.com/5f104d3a5ce722fe2edb88a6/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/41447.jpg",FC2PPV-1702136
+https://s20.camhdxx.com/41447/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/42294.jpg",FC2PPV-1710558
+https://s17.camhdxx.com/42294/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/42133.jpg",345SIMM-615
+https://s26.camhdxx.com/42133/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/36240.jpg",345SIMM-593
+https://server1.camhdxx.com/36240/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/390jac-035.jpg",390JAC-035
+https://server5.camhdxx.com/5ebbba3518ba532f66423edf/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/42286.jpg",FC2PPV-1708136
+https://s12.camhdxx.com/42286/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/fc2ppv-1324624.jpg",FC2PPV-1324624
+https://server5.camhdxx.com/5ebbdf7cb8c3db6fbda30089/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/345simm-586.jpg",345SIMM-586
+https://server1.camhdxx.com/5fef473bfb6b59e7f63482cb/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/345simm-583.jpg",345SIMM-583
+https://server1.camhdxx.com/5fe8b002159dd15df3dcdcf6/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/345simm-574.jpg",345SIMM-574
+https://server1.camhdxx.com/5fda2119b4632d8d328ee267/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/mywife-1676.jpg",Mywife-1676 No.1067
+https://server4.camhdxx.com/5f93a852465d4021aa0e3e51/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/345simm-569.jpg",345SIMM-569
+https://server2.camhdxx.com/5fd25d9f36fa491f20777356/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/345simm-571.jpg",345SIMM-571
+https://server1.camhdxx.com/5fd351c91d89890f37cdbd03/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/345simm-568.jpg",345SIMM-568
+https://server2.camhdxx.com/5fcfa3a5d6668b4ae0df0e3d/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/230oretd-763.jpg",ORETD-763 Urara-sensei
+https://server3.camhdxx.com/5f75c62d511562c760e695a8/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/277dcv-161.jpg",277DCV-161
+https://server5.camhdxx.com/5ebbbb2418ba532f66423f02/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/orerb-017.jpg",orerb-017 Kanon
+https://server5.camhdxx.com/5f0108bc044e3e2b9314929d/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/345simm-570.jpg",345SIMM-570
+https://server2.camhdxx.com/5fd25cff36fa491f2077730d/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/diz-003.jpg",diz-003 Ren
+https://server4.camhdxx.com/5fb4e691b2e46d7db84148d2/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/318lady-342.jpg",318LADY-342 Nagisa
+https://server5.camhdxx.com/5f04807f39cf1e0ba2124ae6/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/mywife-1690.jpg",Mywife-1690 No.1080
+https://server3.camhdxx.com/5fc8d37109b7e0e33ec59d84/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/300maan-559.jpg",300MAAN-559
+https://server5.camhdxx.com/5f1447600d79d728ff9d191a/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/345simm-565.jpg",345SIMM-565
+https://server4.camhdxx.com/5fc8d3a709b7e0e33ec59d8b/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/345simm-564.jpg",345SIMM-564
+https://server4.camhdxx.com/5fc7ba70186e4e0d09e9297e/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/42445.jpg",MIFD-145 Rookie A Certain Prestigious Private
+https://s28.camhdxx.com/42445/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/42444.jpg",MIFD-142 Rookie Over 19 Years Old Naughty Hakata Girl ♪
+https://s6.camhdxx.com/42444/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/42538.jpg",FC2PPV-1712561
+https://s22.camhdxx.com/42538/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/42539.jpg",FC2PPV-1712668
+https://s3.camhdxx.com/42539/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/39931.jpg",261ARA-477
+https://s24.camhdxx.com/39931/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/345simm-386.jpg",345SIMM-386
+https://server5.camhdxx.com/5ebbb6cc18ba532f66423e5e/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/siro-4199.jpg",SIRO-4199
+https://server5.camhdxx.com/5f158be957afb08c2a196e84/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/39259.jpg",241GAREA-495
+https://server1.camhdxx.com/39259/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/200gana-2349.jpg",200GANA-2349
+https://server5.camhdxx.com/5f5e19ca9599b70c96df69ef/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/2473.jpg",328HMDN-266
+https://server2.camhdxx.com/2473/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/413inst-029.jpg",413INST-029 Sally
+https://server5.camhdxx.com/5ec7b24e27f95f3b10190b30/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/42531.jpg",FC2PPV-1706749
+https://s24.camhdxx.com/42531/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/fc2ppv-1551578.jpg",FC2PPV-1551578 (Censored)
+https://server4.camhdxx.com/5fb4e59cb2e46d7db841488a/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/200gana-2393.jpg",200GANA-2393
+https://server3.camhdxx.com/5fc3e26965e03990b65a89f3/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/345simm-432.jpg",345SIMM-432 SEX
+https://server5.camhdxx.com/5ecd05de7b7f65996e657ef4/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/s-cute-549-wakaba-01-2.jpg",S-Cute 549_wakaba_01
+https://server5.camhdxx.com/5ebbb8ff18ba532f66423eb1/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/39654.jpg",413INST-096 Itsuki 2
+https://server2.camhdxx.com/39654/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/210ako-395.jpg",210AKO-395 RIHO – Round 2
+https://server5.camhdxx.com/5f0395005d058abbdeea9392/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/261ara-457.jpg",261ARA-457
+https://server3.camhdxx.com/5f746627ae0542df169581e0/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/300ntk-463.jpg",300NTK-463
+https://server4.camhdxx.com/5fb4e26fb2e46d7db8414710/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/mywife-1670.jpg",Mywife-1670 No.1061
+https://server3.camhdxx.com/5f7546f1382aaada5cba565c/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/42656.jpg",FC2PPV-1706092
+https://s27.camhdxx.com/42656/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/k0752.jpg",K0752
+https://server5.camhdxx.com/5ebbe01bb8c3db6fbda3009d/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/41704.jpg",FC2PPV-1689667 (Censored)
+https://s10.camhdxx.com/41704/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/41714.jpg",FC2PPV-1695262
+https://s19.camhdxx.com/41714/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/k1121.jpg",K1121
+https://server5.camhdxx.com/5ed24bbfd083afd9fb052e1b/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/fc2ppv-1346190-b.jpg",FC2PPV-1346190-B (Censored)
+https://server5.camhdxx.com/5ebb90fb18ba532f664238cd/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/fc2ppv-1355605.jpg",FC2PPV-1355605 (Censored)
+https://server2.camhdxx.com/5ebb85dd18ba532f6642370d/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/41444.jpg",FC2PPV-1701756
+https://s28.camhdxx.com/41444/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/jpgc1085.jpg",JPGC1085
+https://server4.camhdxx.com/5ebc2570b8c3db6fbda30b01/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/fc2ppv-1369391.jpg",FC2PPV-1369391
+https://server5.camhdxx.com/5ec1820134eee714188b4177/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/41120.jpg",1pon 022721_001 Enami Ryuu Train Ryu Enami in a kimono vulgarly!
+https://s2.camhdxx.com/41120/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/k0821.jpg",K0821
+https://server5.camhdxx.com/5ebb9cac18ba532f66423a94/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/41401.jpg",FC2PPV-1691317
+https://s2.camhdxx.com/41401/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/k0942.jpg",K0942
+https://server2.camhdxx.com/5ebb8e7218ba532f6642386d/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/41103.jpg",FC2PPV-1698424
+https://s18.camhdxx.com/41103/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/41096.jpg",FC2PPV-1700264 (Censored)
+https://s6.camhdxx.com/41096/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/fc2ppv-1525132.jpg",FC2PPV-1525132 (Censored)
+https://server4.camhdxx.com/5f844616ad55dc358d5a43cb/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/042311-354-paco.jpg",Paco 042311_354 Manabe Shiori
+https://server5.camhdxx.com/5f3e7cdc864e8394bb255b6d/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/k0837.jpg",K0837
+https://server5.camhdxx.com/5ebb9aca18ba532f66423a4d/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://i2.wp.com/freejavhub.com/wp-content/uploads/2021/01/ipx604pl.jpg?resize=520,350&ssl=1",Minami Aizawa ทริปน้ำร้อนซ่อนน้ำรัก IPX-604
+https://cdn.gojav.co/vod/6042dda6134527001acd1312-hd.mp4/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://i0.wp.com/freejavhub.com/wp-content/uploads/2021/02/ssni987pl.jpg?resize=520,350&ssl=1",Tsukasa Aoi ร้อนสุดคาวฤทธิ์สาวบ้านนอก SSNI-987
+https://cdn.gojav.co/vod/603a0d4aaff1060012e1373d-hd.mp4/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.avsubthai.co/wp-content/uploads/2021/03/image-avcollection-44.jpg",av ซับไทย Tina Nanami รุ่นพี่จอมแหกขอแตกหน้าฝน STARS-166
+https://cdn.gojav.co/vod/603f777e89065b001a40ef1c-hd.mp4/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.avsubthai.co/wp-content/uploads/2021/02/oTXmF0.jpg",av ซับไทย Akari Mitani เอะอะก็ปี้คอฟฟี่ไม่ต้อง HND-861
+https://cdn.gojav.co/vod/hnd-861-hd.mp4/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.avsubthai.co/wp-content/uploads/2020/11/jul263pl.jpg",Ai Mukai สะใภ้แกล้งเมาจับเกาพอหายคัน JUL-263
+https://cdn.gojav.co/vod/JUL-263-hd.mp4/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://img.javsin.tv/wp-content/uploads/2019/01/javsin.tv_1pondo-012417-470-nozomi-aso-in_5e7cb5951e653-720x410.jpg",nozomi-aso-in-pov
+https://cdn182.javfim.com/test215/storage-hls3/27/appid-27105/720p/list_720_v9_bcde292a05eb0861541187169021b659.m3u8
+
+#EXTINF:-1, tvg-logo="https://img.javsin.tv/wp-content/uploads/2020/06/javsin.tv_heyzo-2023-airi-seto-airi_5ed65baa8e23b-720x410.jpg",airi-seto-airi-s-amazing-hand-job
+https://cdn50.javfim.com/test215/storage-hls3/45/appid-45833/720p/list_720_v9_0f31bbae5a807a933fb1f5fc589b489f.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.avsubthai.co/wp-content/uploads/2021/01/image-h-gallery-21.jpg",AV ซับไทย Chihiro Akino ตัณหาครูพยาบาล HEYZO-0887
+https://cdn.gojav.co/vod/5ff66426850c01001ab3d171.mp4/chunk.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.avsubthai.co/wp-content/uploads/2021/01/image-h-gallery-20.jpg",AV ซับไทย Nanami Kawakami เกือบเสียรักแท้เพราะแพ้ความเหงา MEYD-527
+https://cdn.gojav.co/vod/5ff6641d850c01001ab3d170.mp4/chunk.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.avsubthai.co/wp-content/uploads/2021/01/image-h-gallery-16.jpg",AV ซับไทย Mizuki Yayoi ศิษย์เก่าเขย่าเพลิน ADN-239
+https://cdn.gojav.co/vod/5ff51afd865f4b001905eefd.mp4/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.avsubthai.co/wp-content/uploads/2020/12/image-h-gallery-56.jpg",AV ซับไทย Tsukasa Aoi สี่ฉากชิวหาควบม้าขึ้นขย่ม SSNI-940
+https://cdn.gojav.co/vod/5fecd861005eb100197477eb.mp4/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.avsubthai.co/wp-content/uploads/2020/12/image-h-gallery-46.jpg",AV ซับไทย Nanami Misaki ทำงานที่บ้านเดี๋ยวร่านให้ชม IPX-568
+https://cdn.gojav.co/vod/5fe67f0a0b87c4001b1600d8.mp4/chunk.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.avsubthai.co/wp-content/uploads/2020/12/image-h-gallery-45.jpg",AV ซับไทย Rieko Hiraoka แตกในแม่แค่ความเงี่ยน SDMF-017
+https://cdn.gojav.co/vod/5fe67ef00b87c4001b1600d7.mp4/chunk.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.avsubthai.co/wp-content/uploads/2020/12/image-h-gallery-25.jpg",AV ซับไทย Kaho Imai ทรงนี้ไม่ซื่อเด็กดื้อออนท็อป WANZ-946
+https://cdn.gojav.co/vod/5fd291fa8ba9ae001a9a301c.mp4/chunk.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.avsubthai.co/wp-content/uploads/2020/12/image-h-gallery-1.jpg",AV ซับไทย Suzu Honjou เปิดบริสุทธิ์น้องใหม่ถูกใจผู้การ STARS-265
+https://cdn.gojav.co/vod/5fc6c241f1ce3a0019b72125.mp4/chunk.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.avsubthai.co/wp-content/uploads/2020/11/image-h-gallery-717.jpg",AV ซับไทย ซับไทย Oda Mako โจรปล้นสวาท SHKD-622
+https://cdn.gojav.co/vod/5fb0fd35ca1e7d001a9bf273.mp4/chunk.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.avsubthai.co/wp-content/uploads/2020/11/jul157pl.jpg",av ซับไทย Nao Jinguji เสี้ยนทับรอยพ่อซอยประทับใจ JUL-157
+https://cdn.gojav.co/vod/6015f1b3e2b4720019c33733-hd.mp4/chunk.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.avsubthai.co/wp-content/uploads/2020/11/meyd648pl.jpg",av ซับไทย Julia คุณนายทรงใหญ่ฝักใฝ่ช่างแอร์ MEYD-648
+https://cdn.gojav.co/vod/602dc04e22b3b2001ae1ec99-hd.mp4/chunk.m3u8
+
+#EXTINF:-1, tvg-logo="https://img.javsin.tv/wp-content/uploads/2019/02/javsin.tv_caribbeancom-110413-471-deep-kiss-ryu_5e7cb40342398-720x410.jpg",Caribbeancom 110413-471 Deep Kiss Ryu
+https://cdn183.javfim.com/test215/storage-hls3/33/appid-33886/720p/list_720_v9_cf08f57ebc0a3ce677bf47857ed36879.m3u8
+
+#EXTINF:-1, tvg-logo="https://img.javsin.tv/wp-content/uploads/2019/10/javsin.tv_meyd-327-a-horny-apartment-wife_5e7cb4130541e-720x410.jpg",MEYD-327 A Horny Apartment Wife Is Having
+https://cdn221.javfim.com/test215/storage-hls3/33/appid-33552/720p/list_720_v9_a337c9d40265e7342e6f8c6aa2f9e17c.m3u8
+
+#EXTINF:-1, tvg-logo="https://img.javsin.tv/wp-content/uploads/2020/07/javsin.tv_1pondo-032120-989-plenty-of-plump_5f19a753b4550-720x410.jpg",1pondo 032120-989 Plenty of plump body
+https://cdn50.javfim.com/test215/storage-hls3/45/appid-45993/720p/list_720_v9_ccf90417dbafc4c587cc6cbe8093d4f8.m3u8
+
+#EXTINF:-1, tvg-logo="https://img.javsin.tv/wp-content/uploads/2019/12/javsin.tv_heyzo-2043-satomi-suzuki-satomi_5e7cb26cdca95-720x410.jpg",Heyzo 2043 Satomi Suzuki Satomi s Amazing
+https://cdn0246.javfim.com/test215/storage-hls3/43/appid-43486/720p/list_720_v9_a7cfc9fd7430af10d368fa491d95eed3.m3u8
+
+#EXTINF:-1, tvg-logo="https://img.javsin.tv/wp-content/uploads/2019/02/javsin.tv_caribbeancom-112715-032-the-ecstasy-sweat_5e7cb85034dd9-720x410.jpg", Hitomi Hayama
+https://cdn221.javfim.com/test215/storage-hls3/3/appid-3872/720p/list_720_v9_f85cadb0e5dc891ab920b13cf38258cd.m3u8
+
+#EXTINF:-1, tvg-logo="https://img.javsin.tv/wp-content/uploads/2019/11/javsin.tv_heyzo-2138-rin-amane-rin_5e7cb28b16cce-720x410.jpg",Heyzo 2138 Rin Amane Rin s Orgasms with
+https://cdn47.javfim.com/test215/storage-hls3/43/appid-43370/720p/list_720_v9_f6fa09e1c139f450ea0ec2fec87ca6bd.m3u8
+
+#EXTINF:-1, tvg-logo="https://sexnewx.com/wp-content/uploads/2021/03/SSIS-003-480x350.jpg",หนังเอวีญี่ปุ่น ภรรยาสาวเซ็กส์ซี่แอบนัดชายหนุ่มมาเล่นชู้ SSIS-003
+https://kongplay.xyz/files/279d1c97acb431165e4787b29275c7f5_.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/43695.jpg",SOAV-009 Wife Of Cheating Heart Tanihara Nozomi
+https://s4.camhdxx.com/43695/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/42107.jpg",FC2PPV-1708762
+https://s10.camhdxx.com/42107/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://fc2ppv.tv/storage/images/players/soav-063.jpg",SOAV-063 Married Woman’s Cheating Heart Momoi Reo
+https://server5.camhdxx.com/5ebf35cfb8c3db6fbda3802e/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/39329.jpg",FC2PPV-1678073
+https://s24.camhdxx.com/39329/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/011511-592-carib.jpg",Carib 011511-592 Yoshino Sary The True Erotic Story 15
+https://server5.camhdxx.com/5ec66e794cb5014823150a26/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/498.jpg",S-Cute 771_ichika_01
+https://server1.camhdxx.com/498/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/s-cute-769-luna-01.jpg",S-Cute 769_luna_01
+https://server1.camhdxx.com/5ebba07918ba532f66423b2c/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/345simm-407.jpg",345SIMM-407
+https://server5.camhdxx.com/5ebbabb018ba532f66423cc3/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/285endx-278.jpg",285ENDX-278 Chiharu
+https://server5.camhdxx.com/5ebba96f18ba532f66423c6f/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/s-cute-763-aori-01.jpg",S-Cute 763_aori_01
+https://server5.camhdxx.com/5ebba8b918ba532f66423c54/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/tkwa-019.jpg",tkwa-019 Rui 2
+https://server5.camhdxx.com/5ebbba6718ba532f66423ee6/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/300maan-561.jpg",300MAAN-561
+https://server2.camhdxx.com/5f1ac6c5238441fdb980009d/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/42669.jpg",276KITAIKE-485 ゆか
+https://s22.camhdxx.com/42669/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/345simm-566.jpg",345SIMM-566
+https://server2.camhdxx.com/5fcbcb15b37a77f5df743e6a/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/300ntk-370.jpg",300NTK-370 300NTK-370 170cm
+https://server5.camhdxx.com/5ed24c1ad083afd9fb052e29/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/43636.jpg",FC2PPV-1707244
+https://s12.camhdxx.com/43636/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/fc2ppv-1436734.jpg",FC2PPV-1436734
+https://server2.camhdxx.com/5f1052fca023a9ee93f6ec5c/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/43632.jpg",FC2PPV-1706850 (Censored)
+https://s7.camhdxx.com/43632/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/121920-001-1pon.jpg",1pon 121920_001
+https://server1.camhdxx.com/5fde23f4b5f1aa78e6430819/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/s-cute-764-mizuki-01.jpg",S-Cute 764_mizuki_01
+https://server5.camhdxx.com/5ebba6cb18ba532f66423c0e/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/s-cute-724-manami-04.jpg",S-Cute 724_manami_04
+https://server5.camhdxx.com/5ebbab6218ba532f66423cb8/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/431honto-003.jpg",431HONTO-003 みずき S-Cute Honto 汗の匂いが好きなオンナ
+https://server5.camhdxx.com/5ebbacc218ba532f66423cec/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/16844.jpg",407KAG-030
+https://server1.camhdxx.com/16844/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/siro-4175.jpg",SIRO-4175 SIRO-4175
+https://server1.camhdxx.com/5ebb9f1418ba532f66423af8/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/4988.jpg",S-Cute 758_natsuki_01
+https://server1.camhdxx.com/4988/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/39360.jpg",SIRO-4420 SIRO-4420
+https://s8.camhdxx.com/39360/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/38061.jpg",SIRO-4351 SIRO-4351
+https://server1.camhdxx.com/38061/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/42909.jpg",srh-001 Yui
+https://s10.camhdxx.com/42909/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/42901.jpg",490FANE-32 はな 2
+https://s15.camhdxx.com/42901/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/42685.jpg",200GANA-2442
+https://s3.camhdxx.com/42685/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/42682.jpg",499NDH-006
+https://s21.camhdxx.com/42682/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/41413.jpg",FC2PPV-1703250
+https://s4.camhdxx.com/41413/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/41411.jpg",FC2PPV-1701084
+https://s11.camhdxx.com/41411/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/5570.jpg",S-Cute 756_hina_01
+https://server1.camhdxx.com/5570/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/s-cute-533-moe-04.jpg",S-Cute 533_moe_04
+https://server5.camhdxx.com/5ebbb5fc18ba532f66423e3f/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/s-cute-799-kanon-01.jpg",S-Cute 799_kanon_01 141cm
+https://server3.camhdxx.com/5f6e22d9a9ca1959960e14dc/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/37251.jpg",idjs-030 Miki
+https://server2.camhdxx.com/37251/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/siro-4338.jpg",SIRO-4338
+https://server3.camhdxx.com/5fc8d3ad09b7e0e33ec59d8c/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/siro-4352.jpg",SIRO-4352 SIRO-4352
+https://server4.camhdxx.com/5fba530c00c9a06bc521f82c/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/413inst-076.jpg",413INST-076 Miku & Ichika
+https://server2.camhdxx.com/5fce1982afc59ceb928e2a36/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/siro-4335.jpg",SIRO-4335 SIRO-4335
+https://server4.camhdxx.com/5fb901a1ea361223da120c53/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/siro-4069.jpg",SIRO-4069
+https://server4.camhdxx.com/5ebd8bdcb8c3db6fbda346b2/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/332nama-087.jpg",332NAMA-087
+https://server5.camhdxx.com/5ebbb2f818ba532f66423dcf/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/siro-4292.jpg",SIRO-4292
+https://server4.camhdxx.com/5f7f545c0eb51102fdd2c973/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/siro-4210.jpg",SIRO-4210
+https://server3.camhdxx.com/5f75c5a1511562c760e69595/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/s-cute-ick-003.jpg",S-Cute ick_003
+https://server5.camhdxx.com/5f104c9e5ce722fe2edb88a5/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/siro-4207.jpg",SIRO-4207 SIRO-4207
+https://server5.camhdxx.com/5f1048e15ce722fe2edb889e/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/siro-4135.jpg",SIRO-4135
+https://server5.camhdxx.com/5ebbb2b118ba532f66423dc7/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/siro-4037.jpg",SIRO-4037
+https://server5.camhdxx.com/5ebbafd118ba532f66423d5d/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/siro-4126.jpg",SIRO-4126
+https://server5.camhdxx.com/5ebbac9418ba532f66423ce5/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/siro-4176.jpg",SIRO-4176
+https://server5.camhdxx.com/5ec1931d34eee714188b43e1/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://fc2ppv.tv/storage/images/players/siro-4071.jpg",SIRO-4071
+https://server1.camhdxx.com/5ebba05e18ba532f66423b28/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428036_ico.png" group-title="MALAYSIA",TV1
+https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428037_ico.png" group-title="MALAYSIA",TV2
+https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" group-title="MALAYSIA",TV3
+https://androidrepublica.website/List/Dailymotion/tv3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" group-title="MALAYSIA",TV3 (BACKUP)
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHY7BekTYDyaIAxUPteePfhA)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428039_ico.png" group-title="MALAYSIA",NTV 7
+https://androidrepublica.website/List/Dailymotion/ntv7.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png" group-title="MALAYSIA",8TV
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="MALAYSIA",TV9
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/okey.png" group-title="MALAYSIA",OKEY
+https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="TVA.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png" group-title="MALAYSIA",ALHIJRAH
+https://nonton.site:8443/novi/novi123/37337
+
+#EXTINF:-1 tvg-ID="dramasangat.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama sangat.png" group-title="MALAYSIA",DRAMA SANGAT
+https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/DramaSangat.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-ID="Nau.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png" group-title="MALAYSIA",NAURA
+https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428052_ico.png" group-title="MALAYSIA",HELLO
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+
+#EXTINF:-1 tvg-id="AEC.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/306_300.png" group-title="MALAYSIA",Astro AEC
+http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
+
+#EXTINF:-1 tvg-id="Cer.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="MALAYSIA",Astro Ceria
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+
+#EXTINF:-1 tvg-id="Pri.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="MALAYSIA",Astro Prima
+http://tv.wakds.xyz:8080/B1uldhPMU3/KwrGX9Q5gO/161
+
+#EXTINF:-1 tvg-id="Ria.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="MALAYSIA",Astro Ria
+https://nonton.site:8443/novi/novi123/37332
+
+#EXTINF:-1 tvg-id="War.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="MALAYSIA",Astro Warna
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+
+#EXTINF: -1 tvg-id="Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="MALAYSIA", Astro Citra
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Oas.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="MALAYSIA", Astro Oasis
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-ID="BRE.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/berita rtm.png" group-title="MALAYSIA",BERITA RTM
+https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" group-title="MALAYSIA",AWANI
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
+#EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428081_ico.png" group-title="KIDS",ANIMAX
+https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="DIS.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428085_ico.png" group-title="KIDS",DISNEY CHANNEL
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-ID=".ID" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cartoonnetwork.png" group-title="KIDS",CARTOON NETWORK
+https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/nickjr.png" group-title="KIDS",NICK JR
+https://nonton.site:8443/vijay/vijay/38664
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/nickelodeon.png" group-title="KIDS",NICKELODEON
+https://nonton.site:8443/vijay/vijay/38782
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/boomerang.png" group-title="KIDS",BOOMERANG
+https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="natgeo" tvg-name="NAT GEOGRAFHIK" tvg-logo="https://static.epg.best/id/NatGeo.id.png" group-title="KNOWLEDGE",NAT GEOGRAPHIC
+https://nonton.site:8443/vijay/vijay/96
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="natgeowild" tvg-name="NATGEO WILD" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="KNOWLEDGE",NATGEO WILD
+https://nonton.site:8443/vijay/vijay/97
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="natgeopeople" tvg-name="NATGEO POEPLE" tvg-logo="https://static.epg.best/id/NatGeoPeople.id.png" group-title="KNOWLEDGE",NATGEO PEOPLE
+https://nonton.site:8443/vijay/vijay/455
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="disco" tvg-name="DISCOVERY" tvg-logo="https://static.epg.best/th/Discovery.th.png" group-title="KNOWLEDGE",DISCOVERY
+https://nonton.site:8443/vijay/vijay/165
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="history" tvg-name="HISTORY" tvg-logo="https://static.epg.best/id/HistoryChannel.id.png" group-title="KNOWLEDGE",HISTORY
+https://nonton.site:8443/vijay/vijay/718
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="KNOWLEDGE",HGTV
+https://nonton.site:8443/vijay/vijay/537
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="afc" tvg-name="AFN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="KNOWLEDGE",AFN
+https://nonton.site:8443/vijay/vijay/807
+
+#EXTINF:-1 tvg-id="bbcearth" tvg-name="BBC EARTH" tvg-logo="https://static.epg.best/id/BBCEarth.id.png" group-title="KNOWLEDGE",BBC EARTH
+https://nonton.site:8443/vijay/vijay/38680
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="animalplanet" tvg-name="ANIMAL PLANET" tvg-logo="https://static.epg.best/id/AnimalPlanet.id.png" group-title="KNOWLEDGE",ANIMAL PLANET
+https://nonton.site:8443/vijay/vijay/358
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="CIA.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/crimeinvestigation.png" group-title="KNOWLEDGE",CRIME+INVESTIGATION
+https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/travel.png" group-title="KNOWLEDGE",TRAVEL CHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/661
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="LIF.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9431838_ico.png" group-title="KNOWLEDGE",LIFETIME
+https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-ID="TLC.IN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428157_ico.png" group-title="KNOWLEDGE",TLC
+https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-name="304" tvg-id="Hbo.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" group-title="MOVIES",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-name="304" tvg-id="Hbh.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" group-title="MOVIES",HBO HITS
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-name="304" tvg-id="Hbf.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="MOVIES",HBO FAMILY
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-name="304" tvg-id="Hbs.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png" group-title="MOVIES",HBO SIGNATURE
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-name="304" tvg-id="Red.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499186_ico.png" group-title="MOVIES",Red By HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-name="304" tvg-id="CNX.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="MOVIES",CINEMAX
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png" group-title="MOVIES",HBO
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=cfcd208495d565ef66e7dff9f98764dad045c59a90d7587d8d671b5f5aec4e7c
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/33b62539-fe26-4eae-a03f-75b5d1754f05.png" group-title="MOVIES",HBO Signature
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=c4ca4238a0b923820dcc509a6f75849bd045c59a90d7587d8d671b5f5aec4e7c
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/f9e915bc-2e3d-4bee-86a3-d1b689d98152.png" group-title="MOVIES",HBO Hits
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=c81e728d9d4c2f636f067f89cc14862cd045c59a90d7587d8d671b5f5aec4e7c
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/eedae4cd-a010-4405-b545-28902eb1dbb0.png" group-title="MOVIES",HBO Family
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=eccbc87e4b5ce2fe28308fd9f2a7baf3d045c59a90d7587d8d671b5f5aec4e7c
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/40b8a63f-dde1-4813-9c62-3ffc0d7f35c8.png" group-title="MOVIES",Cinemax
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=a87ff679a2f3e71d9181a67b7542122cd045c59a90d7587d8d671b5f5aec4e7c
+#EXTINF:-1  tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/d3a81fd0-b150-483f-bd95-2d81769cef18.png" group-title="MOVIES",Red By HBO
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=e4da3b7fbbce2345d7772b0674a318d5d045c59a90d7587d8d671b5f5aec4e7c
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="foxmovies" tvg-name="FOX MOVIES" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/fox movie.png" group-title="MOVIES",FOX MOVIES
+https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 tvg-id="foxactionmovies" tvg-name="FOX ACTION" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/foxactionmovies.png" group-title="MOVIES",FOX ACTION
+https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="foxfamilymovies" tvg-name="FOX FAMILY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/foxfamilymovies.png" group-title="MOVIES",FOX FAMILY
+https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="fox" tvg-name="FOX" tvg-logo="https://static.epg.best/id/FOX.id.png" group-title="MOVIES",FOX
+https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 tvg-id="foxlife" tvg-name="FOX LIFE" tvg-logo="https://static.epg.best/id/FoxLife.id.png" group-title="MOVIES",FOX LIFE
+https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="foxcrime" tvg-name="FOX CRIME" tvg-logo="https://static.epg.best/id/FOXCrime.id.png" group-title="MOVIES",FOX CRIME
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="warner" tvg-name="WARNER TV" tvg-logo="https://static.epg.best/id/WarnerTV.id.png" group-title="MOVIES",WARNER TV
+https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-ID="HIT.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/fmn.png" group-title="MOVIES",FMN
+https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-ID="Kix.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428328_ico.png" group-title="MOVIES",KIX
+https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-ID="ONE.KR" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png" group-title="MOVIES",ONE TV
+https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-ID="ONE.KR" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/waku2japan.png" group-title="MOVIES",WAKU2 JAPAN
+https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-ID="KBS.Int" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428266_ico.png" group-title="MOVIES",KBS WORLD
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="hits" tvg-name="HITS" tvg-logo="https://static.epg.best/id/HITS.id.png" group-title="MOVIES",HITS
+https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="hitsmovies" tvg-name="HITS MOVIES" tvg-logo="https://static.epg.best/my/HitsMovies.my.png" group-title="MOVIES",HITS MOVIES
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="https://static.epg.best/id/AXN.id.png" group-title="MOVIES",AXN
+https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+#EXTINF:-1 tvg-id="blueant" tvg-name="BLUE ANT ENTERTANMENT" tvg-logo="https://cdn.macan.tv/img/blue_ant_entertainment.png" group-title="MOVIES",BLUE ANT ENTERTANMENT
+http://210.210.155.35/dr9445/h/h16/02.m3u8
+#EXTINF:-1 tvg-id="blueantextreme" tvg-name="BLUE ANT EXTREME" tvg-logo="https://cdn.macan.tv/img/blue_ant_extreme.png" group-title="MOVIES",BLUE ANT EXTREME
+http://45.126.83.51/dr9445/h/h15/01.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="tvn" tvg-name="TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1024px-Logo_tvN.svg.png" group-title="MOVIES",TVN
+https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="tvnmovies" tvg-name="TVN MOVIES" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_109.png" group-title="MOVIES",TVN MOVIES
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="sone" tvg-name="S-ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="MOVIES",SONY ONE
+https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 tvg-id="celestialmovies" tvg-name="CALESTIAL MOVIES" tvg-logo="https://static.epg.best/id/CelestialMovies.id.png" group-title="MOVIES",CELESTIAL MOVIES
+https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 tvg-id="starchinesemovies" tvg-name="SCM" tvg-logo="https://www.carbon.tv/wp-content/uploads/2015/11/SCM_Content004.jpg" group-title="MOVIES",SCM
+https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 tvg-id="starchinesemovieslegend" tvg-name="SCML" tvg-logo="https://i2.wp.com/unifistreamyx.info/wp-content/uploads/2015/07/star_legend.gif" group-title="MOVIES",SCML
+https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 tvg-id="celestialmovie" tvg-name="CCM" tvg-logo="https://static.epg.best/id/CCM.id.png" group-title="MOVIES",CCM
+https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 tvg-id="thrill" tvg-name="THRILL" tvg-logo="https://static.epg.best/id/Thrill.id.png" group-title="MOVIES",THRILL
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 tvg-id="cinemaworld" tvg-name="CINEMAWORD" tvg-logo="https://www.infotelevisi.com/asset/images/tv/Cinemaworld.jpg" group-title="MOVIES",CINEMAWORD
+https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-name="304" tvg-id="CNX.Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cinemaworld.png" group-title="MOVIES",CINEMA WORLD
+http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-name="304" tvg-id="CNX.Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/paramount.png" group-title="MOVIES",PARAMOUNT
+http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-name="304" tvg-id="HIM.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png" group-title="MOVIES",THRILL
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-name="304" tvg-id="Fli.IN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428153_ico.png" group-title="MOVIES",&FLIX
+#http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-name="305" tvg-id="Pri.IN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428154_ico.png" group-title="MOVIES",&PRIVE
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/&flix_logo.png" group-title="MOVIES",&Flix HD
+https://y5w8j4a9.ssl.hwcdn.net:443/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id"andprive" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZDjuxrFrWldIYRwhGvKihLWFnh8IuLTMTgg&usqp=CAU" group-title="MOVIES",&Prive HD
+https://y5w8j4a9.ssl.hwcdn.net:443/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinmax.png",BEIN MAX
+https://nonton.site:8443/vijay/vijay/38733
+
+
+#EXTINF:-1 tvg-ID="MLB.US" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="SPORTS",MLB Network
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-ID="NFL.US" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png" group-title="SPORTS",NFL Network
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?
+
+#EXTINF:-1 tvg-id="ES1.US" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="SPORTS",ESPN
+https://gma2.blab.email/fs2.m3u8
+#EXTINF:-1 tvg-id="ES2.US" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="SPORTS",ESPN 2
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5N6Xy5WL/PRIMA-TV.png" group-title="TV DAERAH",PRIMA TV
+http://primatv.onlivestreaming.net/primatv/livestream/chunks.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6JQLKZC/RB-TV.png" group-title="TV DAERAH",RB TV
+https://5d63d49f772ce.streamlock.net/rbtv/rtmp.stream_360p/chunklist_w738345439.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwQ2r3pv/RIAU-TV.png" group-title="TV DAERAH",Riau TV
+http://122.248.43.138:1935/ch11/myStream/chunklist_w2044873838.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65gyv7BS/SAKTI-TV.png" group-title="TV DAERAH",SAKTI TV
+http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
+
+
+#EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NWQ1MjA4N2QtNTNiZi0zNWM2LWE5NTYtZDUxMDYyMWZhNWU1
 #EXTINF:-1 tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
