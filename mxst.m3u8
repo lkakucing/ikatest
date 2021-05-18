@@ -251,7 +251,6 @@ http://51.79.208.146:61980/myplay/c_10005/index.m3u8
 #EXTINF:-1 tvg-logo="tvpremium.jpg" tvg-logo="http://3.bp.blogspot.com/-PoEGPRHPmjc/VMuZwF2UwaI/AAAAAAAAGc0/jgp18C-DweA/s1600/TV%2BDUNIA.jpg",TV PREMIUM
 http://127.0.0.1:9909/53ccb2bd00078671c92415363f083b8a.ts
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-PoEGPRHPmjc/VMuZwF2UwaI/AAAAAAAAGc0/jgp18C-DweA/s1600/TV%2BDUNIA.jpg" group-title="TV PREMIUM",
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-PoEGPRHPmjc/VMuZwF2UwaI/AAAAAAAAGc0/jgp18C-DweA/s1600/TV%2BDUNIA.jpg" group-title="TV PREMIUM",BeIN SPORTS 1 4K
 http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142774
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-PoEGPRHPmjc/VMuZwF2UwaI/AAAAAAAAGc0/jgp18C-DweA/s1600/TV%2BDUNIA.jpg" group-title="TV PREMIUM",BeIN SPORTS 1 EN 4K
