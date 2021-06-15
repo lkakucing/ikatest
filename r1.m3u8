@@ -1253,10 +1253,14 @@ http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" group-title="MALAYSIA",TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
+#EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" group-title="MALAYSIA",TV3 svr2
+https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/TV3.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" group-title="MALAYSIA",TV3 (BACKUP)
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHY7BekTYDyaIAxUPteePfhA)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1282,7 +1286,7 @@ https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID="TVA.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png" group-title="MALAYSIA",ALHIJRAH
-https://nonton.site:8443/novi/novi123/37337
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="dramasangat.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama sangat.png" group-title="MALAYSIA",DRAMA SANGAT
 https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/DramaSangat.m3u8
@@ -1290,7 +1294,7 @@ https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/DramaSangat.m3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-ID="Nau.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png" group-title="MALAYSIA",NAURA
-https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1301,19 +1305,25 @@ https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
 
 #EXTINF:-1 tvg-id="Cer.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="MALAYSIA",Astro Ceria
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cer.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="MALAYSIA",Astro Ceria 2
 http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
 
 #EXTINF:-1 tvg-id="Pri.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="MALAYSIA",Astro Prima
-http://tv.wakds.xyz:8080/B1uldhPMU3/KwrGX9Q5gO/161
+http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ria.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="MALAYSIA",Astro Ria
 https://nonton.site:8443/novi/novi123/37332
 
 #EXTINF:-1 tvg-id="War.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="MALAYSIA",Astro Warna
-http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 
 #EXTINF: -1 tvg-id="Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="MALAYSIA", Astro Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MALAYSIA", ASTRO BOO HD
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Oas.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="MALAYSIA", Astro Oasis
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
@@ -1327,6 +1337,9 @@ https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" group-title="MALAYSIA",AWANI
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
+#EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" group-title="MALAYSIA",AWANI svr2
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428081_ico.png" group-title="KIDS",ANIMAX
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
@@ -4597,3 +4610,441 @@ https://github.com/geonsey/Free2ViewTV/releases/download/2/Roku_City-Stroll_Skyl
 https://github.com/geonsey/Free2ViewTV/releases/download/1/Roku_City-Stroll_Movie-Magic_720p_16m43s.mp4
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Fireplace & Chill (18+)
 https://github.com/geonsey/Free2ViewTV/releases/download/3/Fireplace-and-Chill_21m.mp4
+
+
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12014&key=84797b799ae18d1b
+#EXTINF:-1 group-title="Malaysian sports" group-title="Malaysian sports" group-title="Malaysian sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png",RTM Sports
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
+#EXTINF:-1 group-title="Malaysian sports" group-title="Malaysian sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",Sukan RTMSport 2
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/index.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" group-title="Malaysian sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",Sukan RTMSport tv1
+http://stream.tvtap.live:8081/live/pt-sporttv1.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" group-title="Malaysian sports" group-title="Malaysian sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",Sukan RTMSport tv2
+http://stream.tvtap.live:8081/live/pt-sporttv2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.ibb.co/48NmRZr/ss.jpg" ,SportsTV
+https://mn-nl.mncdn.com/blutv_sportstv/smil:sportstv_sd.smil/chunklist_b1064000.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz0
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.ibb.co/pzjvvtV/s.jpg" ,SWISS SPORTS
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1477627972_b1096000.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.ibb.co/DtPTkqK/bm.jpg" ,BAYERN MUNCHEN TV
+https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.ibb.co/SQZMVHF/maroc.jpg" ,maroc SPORT
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.ibb.co/PQBPHVk/dubai.png" ,Dubai Sports
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.ibb.co/xL0ryRc/canal.jpg" ,Extremadura TV
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.ibb.co/B2R8y0c/dr.jpg" ,Dubai Racing
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.ibb.co/ZYGHxDr/ra.png" ,Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://png.pngitem.com/pimgs/s/115-1155484_thao-tv-hd-png-download.png",VTVcab16 Thethao
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab16_SD.smil/chunklist_w1601154644_b2692000.m3u8
+
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="http://xemtruyenhinh.xyz/image/htvthethao.png",HTV The thao
+https://live-vthcm.vieon.vn/htv_drm/live/htv_the_thao/TV_HD/htv_the_thao_1080p/chunks.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="http://xemtruyenhinh.xyz/image/htvthethao.png",HTV The thao
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.postimg.cc/pXZzNDd1/111.png",ตีไก่
+http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://img.redbull.com/images/c_fill,g_auto,w_1500,h_1000/q_auto,f_auto/redbullcom/2016/10/01/1331821221085_2/red-bull-tv",RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://media.info/i/lf/300/1514269404/6402.png",Sky Racing 1
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+#EXTINF:-1 group-title="Malaysian sports" vg-logo="https://media.info/i/lf/300/1514269377/6411.png",Sky Racing 2
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SRW/SRH_425x243.png",Sky Thorough bred Central
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
+
+Sports tv1
+http://stream.tvtap.live:8081/live/pt-sporttv1.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" group-title="Malaysian sports" tvg-logo="https://i.imgur.com/GdIXusA.png",Champion 1 HD [Vidio]
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f72f78a365657d56853b6867fb37dc3c102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Malaysian sports" group-title="Malaysian sports" tvg-logo="https://i.imgur.com/sizF3bc.png",Champion 2 HD [Vidio]
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=1458c6647dbf7cca56dff7bfe0576ebb102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Malaysian sports" group-title="Malaysian sports" tvg-logo="https://i.postimg.cc/K8kx7J1V/CHAMPION-TV-3.png",Champion 3 HD
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=af4f00ca48321fb026865c5a1772dafd102a6ed6587b5b8cb4ebbe972864690b
+
+#EXTINF:-1 group-title="Malaysian sports" group-title="Malaysian sports" tvg-logo="https://i.postimg.cc/t4NJ3J1w/ZQ-SCORE.png",ZQ Score
+http://iptv.zqstream.com/zqsport-gen/video.m3u8
+#EXTINF:-1 group-title="Malaysian sports" group-title="Malaysian sports" tvg-logo="https://i.postimg.cc/CM6w8Rft/persija.png",Persija TV
+http://stream1.ninmedia.tv:1935/persijatv/udp.stream_360p/chunklist_w799388038.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" group-title="Malaysian sports" tvg-logo="https://i.ibb.co/pJhm2bQ/via.jpg" ,VIASAT SPORT
+http://persik.tv/stream/3602/287583/10249.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" group-title="Malaysian sports" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/r6i3en1609921650.png",WTA Tennis
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12009&key=84797b799ae18d1b
+
+#EXTINF:-1 group-title="Malaysian sports" group-title="Malaysian sports" tvg-logo="https://seeklogo.com/images/A/association-of-tennis-professionals-atp-logo-AD67CAB60A-seeklogo.com.png",Boss Tennis
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12010&key=84797b799ae18d1b
+
+#EXTINF:-1 group-title="Malaysian sports" group-title="Malaysian sports" tvg-logo="http://image.free.in.th/v/2013/ih/200608084148.png",Super Tennis 2
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" group-title="Malaysian sports" tvg-logo="http://image.free.in.th/v/2013/ih/200608084148.png",Super Tennis
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+
+https://sport.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/10/OmYao8.png",Premier HD 5 weplay
+https://we-play.tv/watching/tv/true-premier-football-hd-5
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/10/OmYao8.png",Premier HD 5
+https://sport.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="http://i.picasion.com/resize90/556592a6fb7952c291cff0aef54cd72b.png",ROH
+https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2021/03/10/DN6Ppg.jpg",ESPN 1
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/foxsports1nl/playlist.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2021/03/10/DN62NW.jpg",ESPN 2
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/foxsports2nl/playlist.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2021/03/10/DN6CQ2.jpg",ESPN 3
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/foxsports3nl/playlist.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2021/03/10/DN6ur1.jpg",ESPN 4
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/foxsports4nl/playlist.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7i9WN.png",Skynet Sport HD
+https://sport.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7i9WN.png",Skynet Sport HD
+https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7iRx1.png",Skynet Sport 1
+https://sport.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7iEeb.png",Skynet Sport 2
+https://sport.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7ijOa.png",Skynet Sport 3
+https://sport.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7ilaq.png",Skynet Sport 4
+https://sport.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7iAx8.png",Skynet Sport 5
+https://sport.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7i2d0.png",Skynet Sport 6
+https://sport.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7i9WN.png",Skynetsport HD
+http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7iRx1.png",Skynetsport 1-77
+http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7iEeb.png",Skynetsport 2-77
+http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7ijOa.png",Skynetsport 3-77
+http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7ilaq.png",Skynetsport 4-77
+http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7iAx8.png",Skynetsport 5-77
+http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7i2d0.png",Skynetsport 6-77
+http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://www.we-play.tv//uploads/posters/3bb-sports-1-poster1607114531.jpeg",3BB Sport
+https://we-play.tv/watching/tv/3bb-sports-1
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/uk-eurosport1.jpg",EUROSPORT 1
+https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/uk-eurosport2.jpg",EUROSPORT 2
+https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-foxsports1.png",Fox Sport HD-weplay
+https://we-play.tv/watching/tv/fox-sports-hd
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/sd-foxsports2.png",FoxSport 2 -weplay
+https://we-play.tv/watching/tv/fox-sports-2
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/sd-foxsports3.png",Fox Sport 3-weplay
+https://we-play.tv/watching/tv/fox-sports-3
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-foxsports1.png",Fox Sport 1 viet
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/sd-foxsports2.png",FoxSport 2 Viet
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8?token=
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/sd-foxsports3.png",Fox Sport 3 Viet
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-foxsports1.png",Fox Sport 1-doo
+https://doofootball.livestream-cdn.com/iptv/hd-foxsports1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/sd-foxsports2.png",Fox Sport 2-d00
+https://doofootball.livestream-cdn.com/iptv/sd-foxsports2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/sd-foxsports3.png",Fox Sport 3-d00
+https://doofootball.livestream-cdn.com/iptv/sd-foxsports3.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-foxsports1.png",Fox Sport 1-live
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/sd-foxsports2.png",Fox Sport 2-live
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/sd-foxsports3.png",Fox Sport 3-live
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png",Fox Sports 1 Asia
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png",Fox Sports 2 Asia
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png",Fox Sports 3 Asia
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+
+ #EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://pbs.twimg.com/profile_images/664177630720081920/GRftjRV6_400x400.jpg",FS1 HD
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.imgur.com/Kxem8ae.jpg",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/11/05/bq8xnv.jpg",SK 1 HD
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m4/sportklub1slovenia/chunks.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/11/05/bq8EmQ.jpg",SK 2 HD
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m4/sportklub2slovenia/chunks.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/11/05/bq8AQ2.jpg",SK 3 HD
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m4/sportklub3slovenia/chunks.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/11/05/bq8Pr1.png",SK 4 HD
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m4/sportklub4slovenia/chunks.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/11/05/bqrOXz.jpg",Arena sport 1
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m4/arenasport1serbia/chunks.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/11/05/bqro60.jpg",Arena sport 2
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m4/arenasport2serbia/chunks.m3u8
+
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/11/05/bqrDMu.jpg",Arena sport 3
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m4/arenasport3serbia/chunks.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/11/05/bqr2LP.jpg",Arena sport 4
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m4/arenasport4serbia/chunks.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/15/bdWrWI.png",Sky sport
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-epl.stream/playlist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/15/bd0siu.png",Sky sport FootBall
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-football.stream/playlist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/15/bdYbJn.png",Sky sport Main event
+https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/c2kxuno.m3u8?s=uTFBUp_r8HqWglD238vhUQ&e=1617690919
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/15/bdS5vq.png",Sky sport Arena
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-arena.stream/playlist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/15/bdWrWI.png",Sky sport Action
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-action.stream/playlist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/15/bdSLGg.png",Sky sport Golf
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-golf.stream/playlist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/15/bd0rJe.png",Sky sport F1
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-f1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/15/bdYB5z.png",Sky sport Mix
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-mix.stream/playlist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/15/bdWrWI.png",Sky sport Cricket
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-cricket.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2021/02/26/o86viz.jpg",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/15/bd6XxE.png",MU TV
+https://doofootball.livestream-cdn.com/iptv/uk-mutv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/epl-bein1.png",Bein Sports1
+https://we-play.tv/watching/tv/bein-sports-1
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/epl-bein2.png",Bein Sports 2
+https://we-play.tv/watching/tv/bein-sports-2
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://www.doofree88.com/storage/live/cU3T3OvaXwzj1SLM64AguujemwWr0oLjqCbRMm7l.png",NFL TV
+https://we-play.tv/watching/tv/nfl-network
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://www.decalsextremeonline.com/assets/images/nbalogo.jpg",NBA china
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8810&key=84797b799ae18d1b
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://www.decalsextremeonline.com/assets/images/nbalogo.jpg",NBA
+https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://www.decalsextremeonline.com/assets/images/nbalogo.jpg",NBA-weplay
+https://we-play.tv/watching/tv/nba-tv
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://www.doofree88.com/storage/live/PLr4ZHAXOi2QKBBGJbPBsCy8KOcd2jO6qRY0d7z0.png",Golf HD
+https://www.livedoomovies.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2021/02/26/o8zq5Q.jpg",NBC Golf
+http://ip2121.com:8081/live/TVB/playlist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-200px.png",ONE GOLF
+http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png",ONE GOLF
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://www.indiagolfdigest.com/wp-content/uploads/2019/01/golftv-pga-tours-702x336.jpg",Boss Golf
+
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12007&key=84797b799ae18d1b
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://www.indiagolfdigest.com/wp-content/uploads/2019/01/golftv-pga-tours-702x336.jpg",Boss Golf 2
+ http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12008&key=84797b799ae18d1b
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tw-ftv-news.jpg",Boss Sports 2 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12006&key=84797b799ae18d1b
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Eleven_Sports_1.png",Eleven Sport +
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11006&key=84797b799ae18d1b
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ElevenSports_2.png",Eleven Sport 2
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11007&key=84797b799ae18d1b
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/19/bYQINb.jpg",Sport TV1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/19/bYQMUf.jpg",Sport TV2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/19/bYUSs8.jpg",Sport TV3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/19/bYUNju.jpg",Sport TV4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/19/bYUw2k.jpg",Sport TV5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/04/chbtsport1.jpg",BT Sport 1
+https://www.andaman888th.com/%e0%b8%94%e0%b8%b9%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/btsport1/
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/04/chbtsport2.jpg",BT Sport 2
+https://www.andaman888th.com/%e0%b8%94%e0%b8%b9%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/btsport2/
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/04/chbtsport3.jpg",BT Sport 3
+https://www.andaman888th.com/%e0%b8%94%e0%b8%b9%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/btsport3/
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.imgur.com/A4GMBN6.png",Red Bull
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDE5IDEwOjAxOjAyIEFNJmhhc2hfdmFsdWU9cFFleXFYSEY3NWcxVDJKMGRXME00UT09JnZhbGlkbWludXRlcz0z
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://ln.heytv.org/wp-content/uploads/2019/03/Dubai-Racing-2.jpg",Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDE5IDEwOjAyOjQzIEFNJmhhc2hfdmFsdWU9UmxXZVpwbURRKzhZYzZtRWRTUnlGUT09JnZhbGlkbWludXRlcz0z
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",TV one 11
+http://36.37.252.114:888/Apple/OneTV-055/playlist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Teledifus%C3%A3o_de_Macau.png",TDM SPORT MACAU
+http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://www.futuretravelexperience.com/wp-content/uploads/2011/07/swissport-logo.jpg",SWISS SPORTS
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1477627972_b1096000.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.ibb.co/802Hb7S/u.png" ,ESPN University
+https://gma2.blab.email/espnu.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.ibb.co/FKFQDms/acc.png" ,ACC Network
+https://gma2.blab.email/acc.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.ibb.co/xYQ8LPp/1.png" ,Football 1
+https://95-213-224-179.livesports24.online/uafootballua1.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.ibb.co/XJNd01q/2.png" ,Football 2
+https://95-213-224-179.livesports24.online/fooootball2.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.ibb.co/PG8nLYP/3.png" ,Football 3
+https://95-213-224-179.livesports24.online/football3ua.m3u8
+
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.ibb.co/48NmRZr/ss.jpg" ,SportsTV
+https://mn-nl.mncdn.com/blutv_sportstv/smil:sportstv_sd.smil/chunklist_b1064000.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz0
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.ibb.co/pzjvvtV/s.jpg" ,SWISS SPORTS
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1477627972_b1096000.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.ibb.co/DtPTkqK/bm.jpg" ,BAYERN MUNCHEN TV
+https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.ibb.co/SQZMVHF/maroc.jpg" ,maroc SPORT
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.ibb.co/PQBPHVk/dubai.png" ,Dubai Sports
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.ibb.co/xL0ryRc/canal.jpg" ,Extremadura TV
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.ibb.co/B2R8y0c/dr.jpg" ,Dubai Racing
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.ibb.co/ZYGHxDr/ra.png" ,Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://png.pngitem.com/pimgs/s/115-1155484_thao-tv-hd-png-download.png",VTVcab16 Thethao
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab16_SD.smil/chunklist_w1601154644_b2692000.m3u8
+
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="http://xemtruyenhinh.xyz/image/htvthethao.png",HTV The thao
+https://live-vthcm.vieon.vn/htv_drm/live/htv_the_thao/TV_HD/htv_the_thao_1080p/chunks.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="http://xemtruyenhinh.xyz/image/htvthethao.png",HTV The thao
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.postimg.cc/pXZzNDd1/111.png",ตีไก่
+http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://img.redbull.com/images/c_fill,g_auto,w_1500,h_1000/q_auto,f_auto/redbullcom/2016/10/01/1331821221085_2/red-bull-tv",RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://media.info/i/lf/300/1514269404/6402.png",Sky Racing 1
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+#EXTINF:-1 group-title="Malaysian sports" vg-logo="https://media.info/i/lf/300/1514269377/6411.png",Sky Racing 2
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SRW/SRH_425x243.png",Sky Thorough bred Central
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
+
+
+
+#EXTINF:-1 group-title="Malaysian sports" group-title="Malaysian sports" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-tennis.png",True Tennis weplay
+https://www.we-play.tv/watching/tv/true-tennis
+#EXTINF:-1 group-title="Malaysian sports" group-title="Malaysian sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-tennis.png",True Tennis-r3
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/truetennis_480p/playlist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" group-title="Malaysian sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-tennis.png",True Tennis
+https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2021/03/10/DN8qQq.jpg",Astro Arena
+http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/11/17/bXqTXE.jpg",Astro sport 1-185
+http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/11/17/bXqg1n.jpg",Astro sport 2-185
+http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/11/17/bXqiAg.jpg",Astro sport 3-185
+http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/11/17/bXqReW.jpg",Astro sport 4-185
+http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/11/17/bXqTXE.jpg",Astro sport 1-96
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_601&key=84797b799ae18d1b
+#EXTINF:-1 group-title="Malaysian sports" group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/11/17/bXqg1n.jpg",Astro sport 2-96
+
+
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/2sport6_480p/playlist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMfZV.jpg",True Sport 7-r3
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/2sport7_480p/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.pinimg.com/474x/8a/a5/e1/8aa5e124922075d475bfb50f0102829e.jpg", Sony Ten 1
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/59
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg",Sony Ten 2
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/60
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.pinimg.com/originals/82/ac/a4/82aca43f83fc8ac14304ac2520c63bd4.png",Sony Ten 3
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/61
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://www.adgully.com/img/400/202008/sony.png.jpg",Sony Six
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/62
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/Sony-pix.jpg",Sony PixS
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/46
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png",TNT Sports 2 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png",TNT Sports 3 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png",TNT Sports 4 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png",TNT Sports 5 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="http://hypress.files.wordpress.com/2013/07/trace_sports_rebrands_to_trace_sport_stars_on_dstv.jpg",Trace Sport Stars
+https://mj1b2xsspj.singularcdn.net.br/trace/tss/6/prog_index.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.imgur.com/ui099xQ.jpg",TVS Classic Sports (720p)
+https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
+#EXTINF:-1 group-title="Malaysian sports"  tvg-logo="https://i.imgur.com/OFO86K5.jpg",TVS Sports (960p)
+https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.imgur.com/jQdBjyx.jpg",TVS Women Sports (480p)
+https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.imgur.com/pggeczF.jpg",World of Freesports
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.imgur.com/ky1sNul.png",Yas TV (1080p)
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/10/OmYZ2e.png",premier HD 1 weplay
+https://we-play.tv/watching/tv/true-premier-football-hd-1
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/10/OmYZ2e.png",premier HD 1
+https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/10/OmYcFl.png",premier HD 2
+https://sport.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/10/OmYcFl.png",premier HD 2 weplay
+https://we-play.tv/watching/tv/true-premier-football-hd-2
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/10/OmYitk.png",premier HD 3 weplay
+https://we-play.tv/watching/tv/true-premier-football-hd-3
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/10/OmYitk.png",premier HD 3
+https://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/10/OmYUfN.png",Premier HD 4 weplay
+https://we-play.tv/watching/tv/true-premier-football-hd-4
+#EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/10/OmYUfN.png",Premier HD 4
+
+
+
+
+
