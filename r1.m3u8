@@ -5045,6 +5045,9 @@ https://we-play.tv/watching/tv/true-premier-football-hd-4
 #EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://sv1.picz.in.th/images/2020/10/10/OmYUfN.png",Premier HD 4
 
 
+#EXTINF:-1 group-title="Sukan" tvg-logo="https://sv1.picz.in.th/images/2020/10/10/OmYUfN.png",QAZsport
+http://46.34.209.242:80/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
 
-
+#EXTINF:-1 group-title="Sukan" tvg-logo="https://sv1.picz.in.th/images/2020/10/10/OmYUfN.png",Yalla
+https://d23oy2lhqs27z5.cloudfront.net/out/v1/f2304e69c54a4c59bcb3902c926e8a5b/index.m3u8
 
