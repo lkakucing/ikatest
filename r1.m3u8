@@ -5051,16 +5051,16 @@ http://46.34.209.242:80/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Sukan" tvg-logo="https://sv1.picz.in.th/images/2020/10/10/OmYUfN.png",Yalla
 https://d23oy2lhqs27z5.cloudfront.net/out/v1/f2304e69c54a4c59bcb3902c926e8a5b/index.m3u8
 
-#EXTINF:-1 tvg-ID="BERITA RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="Malaysia",Berita RTM 
+#EXTINF:-1 tvg-ID="BERITA RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="MALAYSIA",Berita RTM 
 https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
-#EXTINF:-1 tvg-ID="tv.okey.my" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="Malaysia",OKEY2
+#EXTINF:-1 tvg-ID="tv.okey.my" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="MALAYSIA",OKEY2
 https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
-#EXTINF:-1 tvg-ID="tv.okey.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="Malaysia",Arena
+#EXTINF:-1 tvg-ID="tv.okey.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="MALAYSIA",Arena
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",RTM Sports HD
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",RTM Sports HD
 https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
 
