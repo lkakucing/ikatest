@@ -2237,6 +2237,18 @@ http://160.119.77.116:8081/iptv/hd-warnertv.stream/playlist.m3u8
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71098
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" group-title="MOVIES/TV SERIES", AXN HD
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71087
+
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" group-title="MOVIES/TV SERIES", TNT
+http://181.115.72.65:8099/play/a01f/index.m3u8
+
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" group-title="MOVIES/TV SERIES", SYFY
+http://181.115.72.65:8099/play/a02a/index.m3u8
+
+
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" group-title="MOVIES/TV SERIES", FX
+http://181.115.72.65:8099/play/a01n/index.m3u8
+
+
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/184_144.png" group-title="MOVIES/TV SERIES", FOX Action Movies
 http://a2.vivos.club:8880/DDF34waPRy/wjvhwUDX3V/71114
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/151_144.png" group-title="MOVIES/TV SERIES", FOX HD
@@ -4911,6 +4923,8 @@ https://gma2.blab.email/espnu.m3u8
 
 #EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.ibb.co/FKFQDms/acc.png" ,ACC Network
 https://gma2.blab.email/acc.m3u8
+
+
 
 #EXTINF:-1 group-title="Malaysian sports" tvg-logo="https://i.ibb.co/xYQ8LPp/1.png" ,Football 1
 https://95-213-224-179.livesports24.online/uafootballua1.m3u8
